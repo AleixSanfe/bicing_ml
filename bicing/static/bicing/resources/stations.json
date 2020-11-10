@@ -1,0 +1,3594 @@
+[
+    {
+        "id": 1,
+        "name": "01 - C/ GRAN VIA CORTS CATALANES, 760",
+        "lat": 41.397952,
+        "lng": 2.180042,
+        "alt": 21,
+        "address": "01 - C/ GRAN VIA CORTS CATALANES, 760",
+        "capacity": 30
+    },
+    {
+        "id": 2,
+        "name": "02 - C/ ROGER DE FLOR, 126",
+        "lat": 41.39553,
+        "lng": 2.17706,
+        "alt": 21,
+        "address": "02 - C/ ROGER DE FLOR, 126",
+        "capacity": 27
+    },
+    {
+        "id": 3,
+        "name": "03 - C/ NÀPOLS, 82",
+        "lat": 41.394055,
+        "lng": 2.181299,
+        "alt": 22,
+        "address": "03 - C/ NÀPOLS, 82",
+        "capacity": 27
+    },
+    {
+        "id": 4,
+        "name": "04 - C/ RIBES, 13",
+        "lat": 41.39348,
+        "lng": 2.181555,
+        "alt": 21,
+        "address": "04 - C/ RIBES, 13",
+        "capacity": 21
+    },
+    {
+        "id": 5,
+        "name": "05 - PG. LLUIS COMPANYS, 11 (ARC TRIOMF)",
+        "lat": 41.391075,
+        "lng": 2.180223,
+        "alt": 16,
+        "address": "05 - PG. LLUIS COMPANYS, 11 (ARC TRIOMF)",
+        "capacity": 38
+    },
+    {
+        "id": 6,
+        "name": "06 - PG. LLUIS COMPANYS, 18  (ARC TRIOMF)",
+        "lat": 41.391349,
+        "lng": 2.18061,
+        "alt": 16,
+        "address": "06 - PG. LLUIS COMPANYS, 18  (ARC TRIOMF)",
+        "capacity": 38
+    },
+    {
+        "id": 7,
+        "name": "07 - PG. PUJADES,  1 (JUTJATS)",
+        "lat": 41.388856,
+        "lng": 2.183251,
+        "alt": 16,
+        "address": "07 - PG. PUJADES,  1 (JUTJATS)",
+        "capacity": 26
+    },
+    {
+        "id": 8,
+        "name": "08 - PG. PUJADES, 2",
+        "lat": 41.389088,
+        "lng": 2.183568,
+        "alt": 11,
+        "address": "08 - PG. PUJADES, 2",
+        "capacity": 27
+    },
+    {
+        "id": 9,
+        "name": "09 - AV. MARQUÉS DE L'ARGENTERA,13",
+        "lat": 41.384532,
+        "lng": 2.184921,
+        "alt": 11,
+        "address": "09 - AV. MARQUÉS DE L'ARGENTERA,13",
+        "capacity": 26
+    },
+    {
+        "id": 11,
+        "name": "11 - PG. MARITIM, 11 (DAVANT PL. BRUGADA)",
+        "lat": 41.381689,
+        "lng": 2.193914,
+        "alt": 1,
+        "address": "11 - PG. MARITIM, 11 (DAVANT PL. BRUGADA)",
+        "capacity": 21
+    },
+    {
+        "id": 12,
+        "name": "12 - PG. MARITIM, 23 (HOSPITAL DEL MAR)",
+        "lat": 41.384538,
+        "lng": 2.195679,
+        "alt": 0,
+        "address": "12 - PG. MARITIM, 23 (HOSPITAL DEL MAR)",
+        "capacity": 26
+    },
+    {
+        "id": 13,
+        "name": "13 - CARRER DE LA MARINA, 25-33",
+        "lat": 41.387985,
+        "lng": 2.19578,
+        "alt": 8,
+        "address": "13 - CARRER DE LA MARINA, 25-33",
+        "capacity": 54
+    },
+    {
+        "id": 14,
+        "name": "14 - AV. MARQUÉS DE  L'ARGENTERA, 15",
+        "lat": 41.384675,
+        "lng": 2.185039,
+        "alt": 11,
+        "address": "14 - AV. MARQUÉS DE  L'ARGENTERA, 15",
+        "capacity": 26
+    },
+    {
+        "id": 15,
+        "name": "15 - C/ GIRONA, 68",
+        "lat": 41.394812,
+        "lng": 2.171189,
+        "alt": 40,
+        "address": "15 - C/ GIRONA, 68",
+        "capacity": 21
+    },
+    {
+        "id": 17,
+        "name": "17 - AV. MERIDIANA, 47 (ANNEXA A LA 16)",
+        "lat": 41.398237,
+        "lng": 2.186711,
+        "alt": 18,
+        "address": "17 - AV. MERIDIANA, 47 (ANNEXA A LA 16)",
+        "capacity": 42
+    },
+    {
+        "id": 18,
+        "name": "18 - C/ ROSSELLÓ, 453",
+        "lat": 41.406086,
+        "lng": 2.174167,
+        "alt": 49,
+        "address": "18 - C/ ROSSELLÓ, 453",
+        "capacity": 27
+    },
+    {
+        "id": 19,
+        "name": "19 - C/ ROSSELLÓ, 354",
+        "lat": 41.403282,
+        "lng": 2.170726,
+        "alt": 49,
+        "address": "19 - C/ ROSSELLÓ, 354",
+        "capacity": 30
+    },
+    {
+        "id": 20,
+        "name": "20 - C/ CARTAGENA, 308",
+        "lat": 41.410166,
+        "lng": 2.175759,
+        "alt": 59,
+        "address": "20 - C/ CARTAGENA, 308",
+        "capacity": 18
+    },
+    {
+        "id": 21,
+        "name": "21 - C/ SANT ANTONI MARIA CLARET, 214",
+        "lat": 41.410897,
+        "lng": 2.17402,
+        "alt": 59,
+        "address": "21 - C/ SANT ANTONI MARIA CLARET, 214",
+        "capacity": 21
+    },
+    {
+        "id": 22,
+        "name": "22 - C/ SARDENYA, 292",
+        "lat": 41.401684,
+        "lng": 2.17568,
+        "alt": 28,
+        "address": "22 - C/ SARDENYA, 292",
+        "capacity": 19
+    },
+    {
+        "id": 23,
+        "name": "23 - C/ BRUC, 45",
+        "lat": 41.392526,
+        "lng": 2.171812,
+        "alt": 42,
+        "address": "23 - C/ BRUC, 45",
+        "capacity": 27
+    },
+    {
+        "id": 24,
+        "name": "24 - C/ MARINA, 199",
+        "lat": 41.400659,
+        "lng": 2.179111,
+        "alt": 30,
+        "address": "24 - C/ MARINA, 199",
+        "capacity": 30
+    },
+    {
+        "id": 25,
+        "name": "25 - C/ BRUC, 102",
+        "lat": 41.395179,
+        "lng": 2.168294,
+        "alt": 42,
+        "address": "25 - C/ BRUC, 102",
+        "capacity": 21
+    },
+    {
+        "id": 26,
+        "name": "26 - C/ DOS DE MAIG, 230-232",
+        "lat": 41.407035,
+        "lng": 2.181981,
+        "alt": 28,
+        "address": "26 - C/ DOS DE MAIG, 230-232",
+        "capacity": 18
+    },
+    {
+        "id": 27,
+        "name": "27 - C/ PROVENÇA, 322",
+        "lat": 41.396897,
+        "lng": 2.164373,
+        "alt": 49,
+        "address": "27 - C/ PROVENÇA, 322",
+        "capacity": 21
+    },
+    {
+        "id": 28,
+        "name": "28 - C/ SARDENYA, 362",
+        "lat": 41.405422,
+        "lng": 2.17064,
+        "alt": 45,
+        "address": "28 - C/ SARDENYA, 362",
+        "capacity": 15
+    },
+    {
+        "id": 29,
+        "name": "29 - C/ PROVENÇA, 388-390",
+        "lat": 41.401132,
+        "lng": 2.170028,
+        "alt": 50,
+        "address": "29 - C/ PROVENÇA, 388-390",
+        "capacity": 23
+    },
+    {
+        "id": 30,
+        "name": "30 - AV. DIAGONAL, 231 AMB PADILLA",
+        "lat": 41.402046,
+        "lng": 2.182286,
+        "alt": 28,
+        "address": "30 - AV. DIAGONAL, 231 AMB PADILLA",
+        "capacity": 21
+    },
+    {
+        "id": 31,
+        "name": "31 - PL. DEL MAR",
+        "lat": 41.37481,
+        "lng": 2.18895,
+        "alt": 1,
+        "address": "31 - PL. DEL MAR",
+        "capacity": 17
+    },
+    {
+        "id": 32,
+        "name": "32 - LA BARCELONETA (CN BARCELONETA)",
+        "lat": 41.373698,
+        "lng": 2.188927,
+        "alt": 1,
+        "address": "32 - LA BARCELONETA (CN BARCELONETA)",
+        "capacity": 27
+    },
+    {
+        "id": 33,
+        "name": "33 - C/ PONTEVEDRA / JUDICI",
+        "lat": 41.376862,
+        "lng": 2.190773,
+        "alt": 1,
+        "address": "33 - C/ PONTEVEDRA / JUDICI",
+        "capacity": 21
+    },
+    {
+        "id": 34,
+        "name": "34 - C/ SANT PERE MÉS ALT, 4",
+        "lat": 41.387074,
+        "lng": 2.175247,
+        "alt": 16,
+        "address": "34 - C/ SANT PERE MÉS ALT, 4",
+        "capacity": 21
+    },
+    {
+        "id": 35,
+        "name": "35 - C/ SANT RAMON DE PENYAFORT, 1",
+        "lat": 41.413592,
+        "lng": 2.221153,
+        "alt": 1,
+        "address": "35 - C/ SANT RAMON DE PENYAFORT, 1",
+        "capacity": 27
+    },
+    {
+        "id": 36,
+        "name": "36 - AV. DE LA CATEDRAL, 6",
+        "lat": 41.385151,
+        "lng": 2.176804,
+        "alt": 16,
+        "address": "36 - AV. DE LA CATEDRAL, 6",
+        "capacity": 21
+    },
+    {
+        "id": 37,
+        "name": "37 - PL. ANTONIO LÓPEZ (CORREUS, VIA LAIETANA",
+        "lat": 41.381226,
+        "lng": 2.181888,
+        "alt": 5,
+        "address": "37 - PL. ANTONIO LÓPEZ (CORREUS, VIA LAIETANA)",
+        "capacity": 24
+    },
+    {
+        "id": 39,
+        "name": "39 - PL. PAU VILA ",
+        "lat": 41.381046,
+        "lng": 2.186576,
+        "alt": 1,
+        "address": "39 - PL. PAU VILA ",
+        "capacity": 43
+    },
+    {
+        "id": 40,
+        "name": "40 - C/ DOCTOR AIGUADER, 2",
+        "lat": 41.382335,
+        "lng": 2.187093,
+        "alt": 1,
+        "address": "40 - C/ DOCTOR AIGUADER, 2",
+        "capacity": 17
+    },
+    {
+        "id": 41,
+        "name": "41 - PL. POETA BOSCÀ/ATLÀNTIDA",
+        "lat": 41.379326,
+        "lng": 2.189906,
+        "alt": 1,
+        "address": "41 - PL. POETA BOSCÀ/ATLÀNTIDA",
+        "capacity": 19
+    },
+    {
+        "id": 42,
+        "name": "42 - C/ CIUTAT DE GRANADA, 168 / AV. DIAGONAL",
+        "lat": 41.404511,
+        "lng": 2.189881,
+        "alt": 18,
+        "address": "42 - C/ CIUTAT DE GRANADA, 168 / AV. DIAGONAL",
+        "capacity": 24
+    },
+    {
+        "id": 44,
+        "name": "44 - AV. MERIDIANA, 66 ( COSTAT METRO GLORIES",
+        "lat": 41.402285,
+        "lng": 2.187111,
+        "alt": 18,
+        "address": "44 - AV. MERIDIANA, 66 ( COSTAT METRO GLORIES)",
+        "capacity": 21
+    },
+    {
+        "id": 45,
+        "name": "45 - C/ SARDENYA, 66",
+        "lat": 41.391429,
+        "lng": 2.189312,
+        "alt": 18,
+        "address": "45 - C/ SARDENYA, 66",
+        "capacity": 27
+    },
+    {
+        "id": 46,
+        "name": "46 - C/ RAMON TRIAS FARGAS, 19",
+        "lat": 41.388359,
+        "lng": 2.193004,
+        "alt": 1,
+        "address": "46 - C/ RAMON TRIAS FARGAS, 19",
+        "capacity": 52
+    },
+    {
+        "id": 47,
+        "name": "47 - C/ RAMON TRIAS FARGAS, 21",
+        "lat": 41.389831,
+        "lng": 2.191147,
+        "alt": 1,
+        "address": "47 - C/ RAMON TRIAS FARGAS, 21",
+        "capacity": 47
+    },
+    {
+        "id": 48,
+        "name": "48 - AV. MERIDIANA, 40",
+        "lat": 41.396085,
+        "lng": 2.187073,
+        "alt": 18,
+        "address": "48 - AV. MERIDIANA, 40",
+        "capacity": 21
+    },
+    {
+        "id": 49,
+        "name": "49 - C/ ROSA SENSAT, 20",
+        "lat": 41.39106,
+        "lng": 2.196457,
+        "alt": 1,
+        "address": "49 - C/ ROSA SENSAT, 20",
+        "capacity": 20
+    },
+    {
+        "id": 50,
+        "name": "50 - AV. PARAL.LEL, 54",
+        "lat": 41.375,
+        "lng": 2.17035,
+        "alt": 1,
+        "address": "50 - AV. PARAL.LEL, 54",
+        "capacity": 18
+    },
+    {
+        "id": 51,
+        "name": "51 - PL. VICENÇ MARTORELL",
+        "lat": 41.384054,
+        "lng": 2.169019,
+        "alt": 32,
+        "address": "51 - PL. VICENÇ MARTORELL",
+        "capacity": 20
+    },
+    {
+        "id": 53,
+        "name": "53 - PL. CARLES PI I SUNYER",
+        "lat": 41.385227,
+        "lng": 2.173878,
+        "alt": 32,
+        "address": "53 - PL. CARLES PI I SUNYER",
+        "capacity": 21
+    },
+    {
+        "id": 54,
+        "name": "54 - C/ SANT OLEGUER, 2",
+        "lat": 41.377635,
+        "lng": 2.170586,
+        "alt": 24,
+        "address": "54 - C/ SANT OLEGUER, 2",
+        "capacity": 19
+    },
+    {
+        "id": 55,
+        "name": "55 - LA RAMBLA, 80",
+        "lat": 41.381154,
+        "lng": 2.173497,
+        "alt": 24,
+        "address": "55 - LA RAMBLA, 80",
+        "capacity": 19
+    },
+    {
+        "id": 56,
+        "name": "56 - PORTAL DE SANTA MADRONA, 2-4",
+        "lat": 41.377011,
+        "lng": 2.175834,
+        "alt": 5,
+        "address": "56 - PORTAL DE SANTA MADRONA, 2-4",
+        "capacity": 27
+    },
+    {
+        "id": 57,
+        "name": "57 - RAMBLA, 2",
+        "lat": 41.376758,
+        "lng": 2.177093,
+        "alt": 5,
+        "address": "57 - RAMBLA, 2",
+        "capacity": 25
+    },
+    {
+        "id": 58,
+        "name": "58 - PLAÇA DELS ÀNGELS ( MACBA )",
+        "lat": 41.382822,
+        "lng": 2.167154,
+        "alt": 24,
+        "address": "58 - PLAÇA DELS ÀNGELS ( MACBA )",
+        "capacity": 20
+    },
+    {
+        "id": 59,
+        "name": "59 - PLAÇA DELS ÀNGELS ( MACBA )",
+        "lat": 41.382781,
+        "lng": 2.167203,
+        "alt": 24,
+        "address": "59 - PLAÇA DELS ÀNGELS ( MACBA )",
+        "capacity": 21
+    },
+    {
+        "id": 60,
+        "name": "60 - RAMBLA CATALUNYA, 47",
+        "lat": 41.390349,
+        "lng": 2.16424,
+        "alt": 41,
+        "address": "60 - RAMBLA CATALUNYA, 47",
+        "capacity": 27
+    },
+    {
+        "id": 61,
+        "name": "61 - RAMBLA CATALUNYA, 42",
+        "lat": 41.390143,
+        "lng": 2.164946,
+        "alt": 41,
+        "address": "61 - RAMBLA CATALUNYA, 42",
+        "capacity": 26
+    },
+    {
+        "id": 62,
+        "name": "62 - PL. CATALUNYA, 5",
+        "lat": 41.387142,
+        "lng": 2.168858,
+        "alt": 32,
+        "address": "62 - PL. CATALUNYA, 5",
+        "capacity": 25
+    },
+    {
+        "id": 63,
+        "name": "63 - PL. CATALUNYA, 7",
+        "lat": 41.38645,
+        "lng": 2.169463,
+        "alt": 32,
+        "address": "63 - PL. CATALUNYA, 7",
+        "capacity": 27
+    },
+    {
+        "id": 64,
+        "name": "64 - PL. CATALUNYA, 10-11 (RAMBLA)",
+        "lat": 41.387469,
+        "lng": 2.169048,
+        "alt": 32,
+        "address": "64 - PL. CATALUNYA, 10-11 (RAMBLA)",
+        "capacity": 17
+    },
+    {
+        "id": 65,
+        "name": "65 - PL. CATALUNYA, 10-11 (PG. DE GRACIA)",
+        "lat": 41.387678,
+        "lng": 2.169587,
+        "alt": 32,
+        "address": "65 - PL. CATALUNYA, 10-11 (PG. DE GRACIA)",
+        "capacity": 21
+    },
+    {
+        "id": 66,
+        "name": "66 - GRAN VIA DE LES CORTS CATALANES, 609 ",
+        "lat": 41.389097,
+        "lng": 2.167933,
+        "alt": 32,
+        "address": "66 - GRAN VIA DE LES CORTS CATALANES, 609 ",
+        "capacity": 15
+    },
+    {
+        "id": 67,
+        "name": "67 - C/ ROCAFORT, 214 / ROSSELLÓ",
+        "lat": 41.385012,
+        "lng": 2.145843,
+        "alt": 51,
+        "address": "67 - C/ ROCAFORT, 214 / ROSSELLÓ",
+        "capacity": 23
+    },
+    {
+        "id": 68,
+        "name": "68 - RAMBLA CATALUNYA, 133 /  CÒRSEGA",
+        "lat": 41.395364,
+        "lng": 2.157356,
+        "alt": 59,
+        "address": "68 - RAMBLA CATALUNYA, 133 /  CÒRSEGA",
+        "capacity": 27
+    },
+    {
+        "id": 69,
+        "name": "69 - CARRER DE LA MARINA, 25-33",
+        "lat": 41.38797,
+        "lng": 2.195801,
+        "alt": 8,
+        "address": "69 - CARRER DE LA MARINA, 25-33",
+        "capacity": 20
+    },
+    {
+        "id": 70,
+        "name": "70 - C/ COMTE URGELL, 23",
+        "lat": 41.380347,
+        "lng": 2.160695,
+        "alt": 35,
+        "address": "70 - C/ COMTE URGELL, 23",
+        "capacity": 27
+    },
+    {
+        "id": 71,
+        "name": "71 - C/ FLORIDABLANCA, 145",
+        "lat": 41.381931,
+        "lng": 2.162969,
+        "alt": 35,
+        "address": "71 - C/ FLORIDABLANCA, 145",
+        "capacity": 21
+    },
+    {
+        "id": 72,
+        "name": "72 - C/ PROVENÇA, 215",
+        "lat": 41.392716,
+        "lng": 2.158811,
+        "alt": 55,
+        "address": "72 - C/ PROVENÇA, 215",
+        "capacity": 27
+    },
+    {
+        "id": 73,
+        "name": "73 - C/ ENRIC GRANADOS, 93",
+        "lat": 41.392278,
+        "lng": 2.156183,
+        "alt": 59,
+        "address": "73 - C/ ENRIC GRANADOS, 93",
+        "capacity": 27
+    },
+    {
+        "id": 74,
+        "name": "74 - AV. JOSEP TARRADELLAS, 133",
+        "lat": 41.390062,
+        "lng": 2.143272,
+        "alt": 51,
+        "address": "74 - AV. JOSEP TARRADELLAS, 133",
+        "capacity": 14
+    },
+    {
+        "id": 75,
+        "name": "75 - AV. JOSEP TARRADELLAS, 58",
+        "lat": 41.385081,
+        "lng": 2.142868,
+        "alt": 51,
+        "address": "75 - AV. JOSEP TARRADELLAS, 58",
+        "capacity": 20
+    },
+    {
+        "id": 76,
+        "name": "76 - CÒRSEGA, 216",
+        "lat": 41.391751,
+        "lng": 2.153123,
+        "alt": 45,
+        "address": "76 - CÒRSEGA, 216",
+        "capacity": 32
+    },
+    {
+        "id": 78,
+        "name": "78 - PL. UNIVERSITAT /  ARIBAU",
+        "lat": 41.3856691,
+        "lng": 2.1634139,
+        "alt": 41,
+        "address": "78 - PL. UNIVERSITAT /  ARIBAU",
+        "capacity": 26
+    },
+    {
+        "id": 79,
+        "name": "79 - PL.  UNIVERSITAT",
+        "lat": 41.3854435,
+        "lng": 2.1634297,
+        "alt": 41,
+        "address": "79 - PL. UNIVERSITAT",
+        "capacity": 24
+    },
+    {
+        "id": 80,
+        "name": "80 - C/ ENRIC  GRANADOS, 35",
+        "lat": 41.390008,
+        "lng": 2.1599551,
+        "alt": 41,
+        "address": "80 - C/ ENRIC  GRANADOS, 35",
+        "capacity": 21
+    },
+    {
+        "id": 81,
+        "name": "81 - C/ VILAMARÍ,  61",
+        "lat": 41.3790058,
+        "lng": 2.1490856,
+        "alt": 44,
+        "address": "81 - C/ VILAMARÍ,  61",
+        "capacity": 21
+    },
+    {
+        "id": 82,
+        "name": "82 - C/ ROCAFORT, 72-74",
+        "lat": 41.3787972,
+        "lng": 2.1533895,
+        "alt": 40,
+        "address": "82 - C/ ROCAFORT, 72-74",
+        "capacity": 33
+    },
+    {
+        "id": 83,
+        "name": "83 - C/ COMTE BORRELL, 177",
+        "lat": 41.3840885,
+        "lng": 2.1537733,
+        "alt": 45,
+        "address": "83 - C/ COMTE BORRELL, 177",
+        "capacity": 24
+    },
+    {
+        "id": 84,
+        "name": "84 - C/ DEL COMTE D'URGELL, 75 B",
+        "lat": 41.3831216,
+        "lng": 2.1572314,
+        "alt": 35,
+        "address": "84 - C/ DEL COMTE D'URGELL, 75 B",
+        "capacity": 27
+    },
+    {
+        "id": 85,
+        "name": "85 - AV. PARAL·LEL, 146 BIS",
+        "lat": 41.3750672,
+        "lng": 2.159005,
+        "alt": 35,
+        "address": "85 - AV. PARAL·LEL, 146 BIS",
+        "capacity": 24
+    },
+    {
+        "id": 86,
+        "name": "86 - C/ VILADOMAT,  2",
+        "lat": 41.3752683,
+        "lng": 2.1630981,
+        "alt": 35,
+        "address": "86 - C/ VILADOMAT,  2",
+        "capacity": 27
+    },
+    {
+        "id": 87,
+        "name": "87 - C/ MALLORCA, 41-43",
+        "lat": 41.3832053,
+        "lng": 2.1486715,
+        "alt": 44,
+        "address": "87 - C/ MALLORCA, 41-43",
+        "capacity": 21
+    },
+    {
+        "id": 88,
+        "name": "88 - C/ LONDRES, 101-103",
+        "lat": 41.3935986,
+        "lng": 2.1506554,
+        "alt": 59,
+        "address": "88 - C/ LONDRES, 101-103",
+        "capacity": 19
+    },
+    {
+        "id": 89,
+        "name": "89 - C/ ROSSELLÓ,  101",
+        "lat": 41.388154,
+        "lng": 2.1503428,
+        "alt": 45,
+        "address": "89 - C/ ROSSELLÓ,  101",
+        "capacity": 27
+    },
+    {
+        "id": 90,
+        "name": "90 - C/ ROSSELLÓ, 108-110",
+        "lat": 41.3884249,
+        "lng": 2.1507832,
+        "alt": 45,
+        "address": "90 - C/ ROSSELLÓ, 108-110",
+        "capacity": 18
+    },
+    {
+        "id": 92,
+        "name": "92 - C / PROVENÇA, 241",
+        "lat": 41.3937852,
+        "lng": 2.1602704,
+        "alt": 50,
+        "address": "92 - C / PROVENÇA, 241",
+        "capacity": 18
+    },
+    {
+        "id": 93,
+        "name": "93 - GRAN VIA DE LES CORTS CATALANES, 375",
+        "lat": 41.3755595,
+        "lng": 2.1499725,
+        "alt": 40,
+        "address": "93 - GRAN VIA DE LES CORTS CATALANES, 375-385",
+        "capacity": 23
+    },
+    {
+        "id": 94,
+        "name": "94 - GRAN VIA DE LES CORTS CATALANES, 375",
+        "lat": 41.3755704,
+        "lng": 2.1500681,
+        "alt": 40,
+        "address": "94 - GRAN  VIA DE LES CORTS CATALANES, 375-385",
+        "capacity": 24
+    },
+    {
+        "id": 95,
+        "name": "95 - C/ TARRAGONA, 103-115",
+        "lat": 41.3766488,
+        "lng": 2.1476883,
+        "alt": 44,
+        "address": "95 - C/ TARRAGONA, 103-115",
+        "capacity": 33
+    },
+    {
+        "id": 96,
+        "name": "96 - GRAN VIA DE LES CORTS CATALANES,  361",
+        "lat": 41.3742316,
+        "lng": 2.1483861,
+        "alt": 61,
+        "address": "96 - GRAN VIA DE LES CORTS CATALANES, 361",
+        "capacity": 21
+    },
+    {
+        "id": 97,
+        "name": "97 - C/ TARRAGONA, 141",
+        "lat": 41.3782369,
+        "lng": 2.145503,
+        "alt": 44,
+        "address": "97 - C/ TARRAGONA, 141",
+        "capacity": 21
+    },
+    {
+        "id": 98,
+        "name": "98 - C/ VIRIAT, 43",
+        "lat": 41.3803803,
+        "lng": 2.1409726,
+        "alt": 44,
+        "address": "98 - C/ VIRIAT, 43",
+        "capacity": 21
+    },
+    {
+        "id": 99,
+        "name": "99 - C/ VIRIAT,  53",
+        "lat": 41.380632,
+        "lng": 2.141548,
+        "alt": 44,
+        "address": "99 - C/ VIRIAT,  53",
+        "capacity": 21
+    },
+    {
+        "id": 100,
+        "name": "100 - C/ TARRAGONA,  159-173",
+        "lat": 41.3791661,
+        "lng": 2.1440132,
+        "alt": 44,
+        "address": "100 - C/ TARRAGONA,  159-173",
+        "capacity": 22
+    },
+    {
+        "id": 101,
+        "name": "101 - AV. DIAGONAL,  602",
+        "lat": 41.3927878,
+        "lng": 2.1434059,
+        "alt": 69,
+        "address": "101 - AV. DIAGONAL,  602",
+        "capacity": 24
+    },
+    {
+        "id": 102,
+        "name": "102 - AV. DIAGONAL,  612",
+        "lat": 41.3922519,
+        "lng": 2.1420435,
+        "alt": 69,
+        "address": "102 - AV. DIAGONAL,  612",
+        "capacity": 24
+    },
+    {
+        "id": 103,
+        "name": "103 - C/ ARAGÓ, 629",
+        "lat": 41.4098264,
+        "lng": 2.1883486,
+        "alt": 17,
+        "address": "103 - C/ ARAGÓ, 629",
+        "capacity": 21
+    },
+    {
+        "id": 104,
+        "name": "104 - C/ VALÈNCIA,  621",
+        "lat": 41.4108567,
+        "lng": 2.1872941,
+        "alt": 17,
+        "address": "104 - C/ VALÈNCIA, 621",
+        "capacity": 26
+    },
+    {
+        "id": 105,
+        "name": "105 - PL. URQUINAONA, 9-10",
+        "lat": 41.389197,
+        "lng": 2.173555,
+        "alt": 32,
+        "address": "105 - PL. URQUINAONA, 9-10",
+        "capacity": 21
+    },
+    {
+        "id": 106,
+        "name": "106 - PL  JOANIC - C / BRUNIQUER, 59",
+        "lat": 41.4056,
+        "lng": 2.1623,
+        "alt": 59,
+        "address": "106 - PL  JOANIC - C / BRUNIQUER, 59",
+        "capacity": 20
+    },
+    {
+        "id": 107,
+        "name": "107 - TRAV. DE GRÀCIA, 92 / VIA AUGUSTA",
+        "lat": 41.3985611,
+        "lng": 2.1530513,
+        "alt": 59,
+        "address": "107 - TRAV. DE GRÀCIA, 92 / VIA AUGUSTA",
+        "capacity": 20
+    },
+    {
+        "id": 108,
+        "name": "108 - C / INDÚSTRIA, 10",
+        "lat": 41.4024328,
+        "lng": 2.1648503,
+        "alt": 59,
+        "address": "108 - C / INDÚSTRIA, 10",
+        "capacity": 21
+    },
+    {
+        "id": 109,
+        "name": "109 - C/ LONDRES,  53",
+        "lat": 41.390936,
+        "lng": 2.1474257,
+        "alt": 51,
+        "address": "109 - C/ LONDRES,  53",
+        "capacity": 24
+    },
+    {
+        "id": 110,
+        "name": "110 - AV. ROMA,  136",
+        "lat": 41.3857053,
+        "lng": 2.1547191,
+        "alt": 43,
+        "address": "110 - AV. ROMA,  136",
+        "capacity": 21
+    },
+    {
+        "id": 111,
+        "name": "111 - C/ CALÀBRIA,  137",
+        "lat": 41.3813141,
+        "lng": 2.1527471,
+        "alt": 41,
+        "address": "111 - C/ CALÀBRIA, 137",
+        "capacity": 26
+    },
+    {
+        "id": 112,
+        "name": "112 - C/ FLORIDABLANCA,  49",
+        "lat": 41.3776061,
+        "lng": 2.1572895,
+        "alt": 40,
+        "address": "112 - C/ FLORIDABLANCA, 49",
+        "capacity": 20
+    },
+    {
+        "id": 113,
+        "name": "113 - RONDA DE SANT PAU , 51",
+        "lat": 41.3774096,
+        "lng": 2.1648261,
+        "alt": 30,
+        "address": "113 - RONDA DE SANT PAU, 51",
+        "capacity": 26
+    },
+    {
+        "id": 114,
+        "name": "114 - PL. JEAN GENET,  1",
+        "lat": 41.3768334,
+        "lng": 2.1737389,
+        "alt": 24,
+        "address": "114 - PL. JEAN GENET,  1",
+        "capacity": 20
+    },
+    {
+        "id": 115,
+        "name": "115 - AV. MARQUÉS DE L'ARGENTERA,  3",
+        "lat": 41.3837312,
+        "lng": 2.1841477,
+        "alt": 1,
+        "address": "115 - AV. MARQUÉS DE L'ARGENTERA,  3",
+        "capacity": 21
+    },
+    {
+        "id": 116,
+        "name": "116 - C/ DEL DR. AIGUADER, 72 / PG. SALVAT",
+        "lat": 41.3839396,
+        "lng": 2.1916731,
+        "alt": 11,
+        "address": "116 - C/ DEL DR. AIGUADER, 72 / PG. SALVAT PAPASSEIT",
+        "capacity": 27
+    },
+    {
+        "id": 117,
+        "name": "117 - C/ ROSA SENSAT, 12",
+        "lat": 41.3907885,
+        "lng": 2.1969509,
+        "alt": 1,
+        "address": "117 - C/ ROSA SENSAT, 12",
+        "capacity": 21
+    },
+    {
+        "id": 118,
+        "name": "118 - C/ PUJADES,  3",
+        "lat": 41.3919909,
+        "lng": 2.1879553,
+        "alt": 18,
+        "address": "118 - C/ PUJADES,  3",
+        "capacity": 27
+    },
+    {
+        "id": 119,
+        "name": "119 - C/ SARDENYA,  178",
+        "lat": 41.3966226,
+        "lng": 2.1823944,
+        "alt": 21,
+        "address": "119 - C/ SARDENYA,  178",
+        "capacity": 27
+    },
+    {
+        "id": 120,
+        "name": "120 -  C/ LEPANT,  278",
+        "lat": 41.4045867,
+        "lng": 2.1765086,
+        "alt": 28,
+        "address": "120 - C/ LEPANT,  278",
+        "capacity": 21
+    },
+    {
+        "id": 121,
+        "name": "121 - C/ CASTILLEJOS, 258",
+        "lat": 41.4061885,
+        "lng": 2.1785208,
+        "alt": 28,
+        "address": "121 - C/ CASTILLEJOS, 258",
+        "capacity": 21
+    },
+    {
+        "id": 122,
+        "name": "122 - C/ NÀPOLS, 344",
+        "lat": 41.4053379,
+        "lng": 2.1660973,
+        "alt": 59,
+        "address": "122 - C/ NÀPOLS, 344",
+        "capacity": 21
+    },
+    {
+        "id": 123,
+        "name": "123 - C/ GIRONA, 142",
+        "lat": 41.398114,
+        "lng": 2.166828,
+        "alt": 45,
+        "address": "123 - C/ GIRONA, 142",
+        "capacity": 21
+    },
+    {
+        "id": 124,
+        "name": "124 - C/ NOVA  BOCANA",
+        "lat": 41.3702482637018,
+        "lng": 2.1878125984221697,
+        "alt": 5,
+        "address": "124 - C/ NOVA  BOCANA",
+        "capacity": 27
+    },
+    {
+        "id": 125,
+        "name": "125 - PG. MARíTIM, 31 B (ANNEXA A LA  12)",
+        "lat": 41.3844693,
+        "lng": 2.1955147,
+        "alt": 1,
+        "address": "125 - PG. MARíTIM, 31 B (ANNEXA A LA  12)",
+        "capacity": 20
+    },
+    {
+        "id": 126,
+        "name": "126 - PG. DE COLOM /VIA LAIETANA",
+        "lat": 41.3806785,
+        "lng": 2.1817748,
+        "alt": 5,
+        "address": "126 - PG. DE COLOM /VIA LAIETANA",
+        "capacity": 23
+    },
+    {
+        "id": 127,
+        "name": "127 - C/ ARAGÓ, 659 / NAVAS DE TOLOSA",
+        "lat": 41.4118718,
+        "lng": 2.1911494,
+        "alt": 17,
+        "address": "127 - C/ ARAGÓ, 659 /NAVAS DE TOLOSA",
+        "capacity": 27
+    },
+    {
+        "id": 128,
+        "name": "128 - RAMBLA DE GUIPÚSCOA, 43/FLUVIÀ",
+        "lat": 41.4154133,
+        "lng": 2.1964181,
+        "alt": 13,
+        "address": "128 - RAMBLA DE GUIPÚSCOA, 43/FLUVIÀ",
+        "capacity": 28
+    },
+    {
+        "id": 129,
+        "name": "129 - C/ MANSO, 46",
+        "lat": 41.3770515,
+        "lng": 2.1611378,
+        "alt": 35,
+        "address": "129 - C/ MANSO, 46",
+        "capacity": 27
+    },
+    {
+        "id": 130,
+        "name": "130 - RAMBLA DE GUIPÚSCOA, 103 / CANTÀBRIA",
+        "lat": 41.4198281,
+        "lng": 2.201574,
+        "alt": 9,
+        "address": "130 - RAMBLA DE GUIPÚSCOA, 103 /CANTÀBRIA",
+        "capacity": 24
+    },
+    {
+        "id": 131,
+        "name": "131 - RAMBLA  DE GUIPÚSCOA, 158/ CA N'OLIVA",
+        "lat": 41.422785,
+        "lng": 2.20594,
+        "alt": 9,
+        "address": "131 - RAMBLA  DE GUIPÚSCOA, 158/ CA N'OLIVA",
+        "capacity": 26
+    },
+    {
+        "id": 132,
+        "name": "132 - PL. VALENTÍ ALMIRALL",
+        "lat": 41.4084554,
+        "lng": 2.1919802,
+        "alt": 13,
+        "address": "132 - PL.VALENTÍ ALMIRALL",
+        "capacity": 26
+    },
+    {
+        "id": 133,
+        "name": "133 - GRAN VIA DE LES CORTS CATALANES,  902",
+        "lat": 41.4076602,
+        "lng": 2.1924881,
+        "alt": 16,
+        "address": "133 - GRAN VIA DE LES CORTS CATALANES, 902",
+        "capacity": 16
+    },
+    {
+        "id": 134,
+        "name": "134 - C/ BAC DE RODA, 157",
+        "lat": 41.4115934,
+        "lng": 2.1987619,
+        "alt": 10,
+        "address": "134 - C/ BAC DE RODA, 157",
+        "capacity": 21
+    },
+    {
+        "id": 135,
+        "name": "135 - GRAN VIA DE LES CORTS CATALANES,  981",
+        "lat": 41.4121316,
+        "lng": 2.1977579,
+        "alt": 13,
+        "address": "135 - GRAN VIA DE LES CORTS CATALANES,  981",
+        "capacity": 21
+    },
+    {
+        "id": 136,
+        "name": "136 - GRAN VIA DE LES CORTS CATALANES,  1062",
+        "lat": 41.4141813,
+        "lng": 2.2015894,
+        "alt": 9,
+        "address": "136 - GRAN VIA DE LES CORTS CATALANES,  1062",
+        "capacity": 26
+    },
+    {
+        "id": 137,
+        "name": "137 - GRAN VIA DE LES CORTS CATALANES , 1041",
+        "lat": 41.4144656,
+        "lng": 2.2014244,
+        "alt": 9,
+        "address": "137 - GRAN VIA DE LES CORTS CATALANES, 1041",
+        "capacity": 24
+    },
+    {
+        "id": 138,
+        "name": "138 - GRAN VIA DE LES CORTS CATALANES,  1118",
+        "lat": 41.416832,
+        "lng": 2.2053065,
+        "alt": 9,
+        "address": "138 - GRAN VIA DE LES CORTS CATALANES, 1118",
+        "capacity": 21
+    },
+    {
+        "id": 139,
+        "name": "139 - GRAN VIA DE LES CORTS CATALANES,  1131",
+        "lat": 41.4179241,
+        "lng": 2.2061937,
+        "alt": 9,
+        "address": "139 - GRAN VIA DE LES CORTS CATALANES,  1131",
+        "capacity": 32
+    },
+    {
+        "id": 140,
+        "name": "140 - C/ VILADOMAT,  122",
+        "lat": 41.3806648,
+        "lng": 2.15625,
+        "alt": 41,
+        "address": "140 - C/ VILADOMAT, 122",
+        "capacity": 26
+    },
+    {
+        "id": 141,
+        "name": "141 - GRAN VIA DE LES CORTS CATALANES ,  940",
+        "lat": 41.4090158,
+        "lng": 2.1946377,
+        "alt": 13,
+        "address": "141 - GRAN VIA DE LES CORTS CATALANES ,  940",
+        "capacity": 32
+    },
+    {
+        "id": 142,
+        "name": "142 - C/ SANCHO DE ÁVILA,  104 - C/ BADAJOZ",
+        "lat": 41.4005692,
+        "lng": 2.1923425,
+        "alt": 16,
+        "address": "142 - C/ SANCHO DE ÁVILA,  104 - C/ BADAJOZ",
+        "capacity": 32
+    },
+    {
+        "id": 143,
+        "name": "143 -C/ SANCHO DE ÁVILA, 170 / LLACUNA",
+        "lat": 41.4030725,
+        "lng": 2.1959541,
+        "alt": 16,
+        "address": "143 -C/ SANCHO DE ÁVILA, 170 / LLACUNA",
+        "capacity": 27
+    },
+    {
+        "id": 144,
+        "name": "144 - C/ CASTELLA,  28 / DIAGONAL",
+        "lat": 41.4057871,
+        "lng": 2.1975542,
+        "alt": 16,
+        "address": "144 - C/ CASTELLA,  28 / DIAGONAL",
+        "capacity": 27
+    },
+    {
+        "id": 145,
+        "name": "145 - C/ PERE IV,  301 / FLUVIÀ",
+        "lat": 41.4099066,
+        "lng": 2.2028356,
+        "alt": 9,
+        "address": "145 - C/ PERE IV,  301 / FLUVIÀ",
+        "capacity": 26
+    },
+    {
+        "id": 147,
+        "name": "147 - RAMBLA PRIM, 79",
+        "lat": 41.416018,
+        "lng": 2.212658,
+        "alt": 5,
+        "address": "147 - RAMBLA PRIM, 79",
+        "capacity": 27
+    },
+    {
+        "id": 148,
+        "name": "148 - RONDA SANT PAU, 79",
+        "lat": 41.378486,
+        "lng": 2.163404,
+        "alt": 12,
+        "address": "148 - RONDA SANT PAU, 79",
+        "capacity": 23
+    },
+    {
+        "id": 149,
+        "name": "149 - C/ PUJADES, 57B",
+        "lat": 41.395905,
+        "lng": 2.192958,
+        "alt": 11,
+        "address": "149 - C/ PUJADES, 57B",
+        "capacity": 27
+    },
+    {
+        "id": 150,
+        "name": "150 - C/ ESPRONCEDA, 124",
+        "lat": 41.406549,
+        "lng": 2.203112,
+        "alt": 10,
+        "address": "150 - C/ ESPRONCEDA, 124",
+        "capacity": 26
+    },
+    {
+        "id": 151,
+        "name": "151 - C/ PALLARS, 182",
+        "lat": 41.40065,
+        "lng": 2.19719,
+        "alt": 6,
+        "address": "151 - C/ PALLARS, 182",
+        "capacity": 27
+    },
+    {
+        "id": 152,
+        "name": "152 - C/ PUJADES, 121",
+        "lat": 41.39925,
+        "lng": 2.197421,
+        "alt": 11,
+        "address": "152 - C/ PUJADES, 121",
+        "capacity": 27
+    },
+    {
+        "id": 153,
+        "name": "153 - C/ PUJADES, 173/RAMBLA DEL POBLE NOU",
+        "lat": 41.401778,
+        "lng": 2.200769,
+        "alt": 10,
+        "address": "153 - C/ PUJADES, 173/RAMBLA DEL POBLE NOU",
+        "capacity": 22
+    },
+    {
+        "id": 154,
+        "name": "154 - C/ PUJADES, 191",
+        "lat": 41.402454,
+        "lng": 2.201656,
+        "alt": 10,
+        "address": "154 - C/ PUJADES, 191",
+        "capacity": 32
+    },
+    {
+        "id": 155,
+        "name": "155 - C/ PUJADES, 311/ FLUVIÀ",
+        "lat": 41.406977,
+        "lng": 2.207602,
+        "alt": 10,
+        "address": "155 - C/ PUJADES, 311/ FLUVIÀ",
+        "capacity": 32
+    },
+    {
+        "id": 156,
+        "name": "156 - C/ SELVA DE MAR, 46",
+        "lat": 41.409017,
+        "lng": 2.20881,
+        "alt": 5,
+        "address": "156 - C/ SELVA DE MAR, 46",
+        "capacity": 27
+    },
+    {
+        "id": 157,
+        "name": "157 - C/ LLULL, 465",
+        "lat": 41.412942,
+        "lng": 2.217994,
+        "alt": 0,
+        "address": "157 - C/ LLULL, 465",
+        "capacity": 24
+    },
+    {
+        "id": 158,
+        "name": "158 - RAMBLA DE PRIM, 19",
+        "lat": 41.411741,
+        "lng": 2.218546,
+        "alt": 1,
+        "address": "158 - RAMBLA DE PRIM, 19",
+        "capacity": 27
+    },
+    {
+        "id": 159,
+        "name": "159 - AV. DIAGONAL, 26",
+        "lat": 41.410882,
+        "lng": 2.216703,
+        "alt": 5,
+        "address": "159 - AV. DIAGONAL, 26",
+        "capacity": 32
+    },
+    {
+        "id": 160,
+        "name": "160 - AV. D'EDUARD MARISTANY, 1 /FORUM",
+        "lat": 41.411026,
+        "lng": 2.219377,
+        "alt": 1,
+        "address": "160 - AV. D'EDUARD MARISTANY, 1 /FORUM",
+        "capacity": 33
+    },
+    {
+        "id": 161,
+        "name": "161 - C/ RAMON TURRÓ, 91",
+        "lat": 41.395009,
+        "lng": 2.196308,
+        "alt": 11,
+        "address": "161 - C/ RAMON TURRÓ, 91",
+        "capacity": 26
+    },
+    {
+        "id": 162,
+        "name": "162 - C/ RAMON TURRÓ, 292",
+        "lat": 41.403908,
+        "lng": 2.208436,
+        "alt": 0,
+        "address": "162 - C/ RAMON TURRÓ, 292",
+        "capacity": 27
+    },
+    {
+        "id": 163,
+        "name": "163 - AV. ICÀRIA, 202",
+        "lat": 41.3942,
+        "lng": 2.20077,
+        "alt": 11,
+        "address": "163 - AV. ICÀRIA, 202",
+        "capacity": 27
+    },
+    {
+        "id": 164,
+        "name": "164 - C/ INDEPENDÈNCIA, 379",
+        "lat": 41.411901,
+        "lng": 2.177895,
+        "alt": 33,
+        "address": "164 - C/ INDEPENDÈNCIA, 379",
+        "capacity": 26
+    },
+    {
+        "id": 165,
+        "name": "165 - C/ DEL DOCTOR TRUETA, 222",
+        "lat": 41.399196,
+        "lng": 2.204253,
+        "alt": 0,
+        "address": "165 - C/ DEL DOCTOR TRUETA, 222",
+        "capacity": 27
+    },
+    {
+        "id": 167,
+        "name": "167 - C/ BAC DE RODA, 11",
+        "lat": 41.402561,
+        "lng": 2.210538,
+        "alt": 0,
+        "address": "167 - C/ BAC DE RODA, 11",
+        "capacity": 21
+    },
+    {
+        "id": 168,
+        "name": "168 - SELVA DE MAR / PG. DEL TAULAT ",
+        "lat": 41.405358,
+        "lng": 2.213677,
+        "alt": 0,
+        "address": "168 - SELVA DE MAR / PG. DEL TAULAT ",
+        "capacity": 27
+    },
+    {
+        "id": 170,
+        "name": "170 - AV.LITORAL, 40 (ANNEXA A LA 169)",
+        "lat": 41.389732,
+        "lng": 2.199934,
+        "alt": 1,
+        "address": "170 - AV.LITORAL, 40 (ANNEXA A LA 169)",
+        "capacity": 53
+    },
+    {
+        "id": 171,
+        "name": "171 - PG. MARÍTIM DE LA NOVA ICÀRIA, 83",
+        "lat": 41.391986,
+        "lng": 2.203699,
+        "alt": 0,
+        "address": "171 - PG. MARÍTIM DE LA NOVA ICÀRIA, 83",
+        "capacity": 54
+    },
+    {
+        "id": 173,
+        "name": "173 - AV.LITORAL, 84",
+        "lat": 41.398027,
+        "lng": 2.208982,
+        "alt": 0,
+        "address": "173 - AV.LITORAL, 84",
+        "capacity": 27
+    },
+    {
+        "id": 174,
+        "name": "174 - PG. DE GARCIA FÀRIA, 21/ESPRONCEDA",
+        "lat": 41.40061,
+        "lng": 2.210461,
+        "alt": 0,
+        "address": "174 - PG. DE GARCIA FÀRIA, 21/ESPRONCEDA",
+        "capacity": 27
+    },
+    {
+        "id": 175,
+        "name": "175 - C/ LLULL, 309",
+        "lat": 41.40666,
+        "lng": 2.20956,
+        "alt": 10,
+        "address": "175 - C/ LLULL, 309",
+        "capacity": 27
+    },
+    {
+        "id": 176,
+        "name": "176 - PG. DE GARCIA FÀRIA, 37/JOSEP FERRATER",
+        "lat": 41.402541,
+        "lng": 2.212641,
+        "alt": 0,
+        "address": "176 - PG. DE GARCIA FÀRIA, 37/JOSEP FERRATER",
+        "capacity": 27
+    },
+    {
+        "id": 177,
+        "name": "177 - C/ ROSSELLÓ, 557",
+        "lat": 41.411089,
+        "lng": 2.181119,
+        "alt": 0,
+        "address": "177 - C/ ROSSELLÓ, 557",
+        "capacity": 27
+    },
+    {
+        "id": 178,
+        "name": "178 - PG. DE GARCIA FÀRIA, 85",
+        "lat": 41.405389,
+        "lng": 2.216212,
+        "alt": 0,
+        "address": "178 - PG. DE GARCIA FÀRIA, 85",
+        "capacity": 27
+    },
+    {
+        "id": 179,
+        "name": "179 - PG. ZONA FRANCA, 244",
+        "lat": 41.363511,
+        "lng": 2.13677,
+        "alt": 48,
+        "address": "179 - PG. ZONA FRANCA, 244",
+        "capacity": 15
+    },
+    {
+        "id": 180,
+        "name": "180 - GRAN VIA DE LES CORTS CATALANES/MOSSÈN ",
+        "lat": 41.36778,
+        "lng": 2.13926,
+        "alt": 50,
+        "address": "180 - GRAN VIA DE LES CORTS CATALANES/MOSSÈN AMADEU OLLER",
+        "capacity": 50
+    },
+    {
+        "id": 182,
+        "name": "182 - GRAN VIA DE LES CORTS CATALANES, 273",
+        "lat": 41.371455,
+        "lng": 2.143882,
+        "alt": 61,
+        "address": "182 - GRAN VIA DE LES CORTS CATALANES, 273",
+        "capacity": 27
+    },
+    {
+        "id": 183,
+        "name": "183 - C/ GAVÀ, 1",
+        "lat": 41.372338,
+        "lng": 2.141875,
+        "alt": 61,
+        "address": "183 - C/ GAVÀ, 1",
+        "capacity": 28
+    },
+    {
+        "id": 184,
+        "name": "184 - C/ QUETZAL, 22-24",
+        "lat": 41.367504,
+        "lng": 2.134088,
+        "alt": 50,
+        "address": "184 - C/ QUETZAL, 22-24",
+        "capacity": 27
+    },
+    {
+        "id": 185,
+        "name": "185 - C/GAVÀ, 81",
+        "lat": 41.37046,
+        "lng": 2.138994,
+        "alt": 50,
+        "address": "185 - C/GAVÀ, 81",
+        "capacity": 17
+    },
+    {
+        "id": 186,
+        "name": "186 - C/CONSELL DE CENT, 6",
+        "lat": 41.375571,
+        "lng": 2.143812,
+        "alt": 0,
+        "address": "186 - C/CONSELL DE CENT, 6",
+        "capacity": 26
+    },
+    {
+        "id": 187,
+        "name": "187 - C/ DE SANT PAU, 89 - 97",
+        "lat": 41.376858,
+        "lng": 2.169811,
+        "alt": 24,
+        "address": "187 - C/ DE SANT PAU, 89 - 97",
+        "capacity": 19
+    },
+    {
+        "id": 188,
+        "name": "188 - PG. SANT ANTONI /PL. SANTS",
+        "lat": 41.375802,
+        "lng": 2.135973,
+        "alt": 45,
+        "address": "188 - PG. SANT ANTONI /PL. SANTS",
+        "capacity": 27
+    },
+    {
+        "id": 189,
+        "name": "189 - C/ BRUC, 130",
+        "lat": 41.396918,
+        "lng": 2.166163,
+        "alt": 50,
+        "address": "189 - C/ BRUC, 130",
+        "capacity": 26
+    },
+    {
+        "id": 190,
+        "name": "190 - AV. LITORAL, 72",
+        "lat": 41.39606,
+        "lng": 2.207803,
+        "alt": 0,
+        "address": "190 - AV. LITORAL, 72",
+        "capacity": 29
+    },
+    {
+        "id": 191,
+        "name": "191 - C/ ROCAFORT, 167",
+        "lat": 41.382564,
+        "lng": 2.149094,
+        "alt": 44,
+        "address": "191 - C/ ROCAFORT, 167",
+        "capacity": 24
+    },
+    {
+        "id": 192,
+        "name": "192 - C/ JOAN GÜELL, 50",
+        "lat": 41.378629,
+        "lng": 2.133467,
+        "alt": 40,
+        "address": "192 - C/ JOAN GÜELL, 50",
+        "capacity": 20
+    },
+    {
+        "id": 193,
+        "name": "193 - C/ FÍGOLS, 1",
+        "lat": 41.381311,
+        "lng": 2.128912,
+        "alt": 46,
+        "address": "193 - C/ FÍGOLS, 1",
+        "capacity": 26
+    },
+    {
+        "id": 194,
+        "name": "194 - C/ JOAN GÜELL, 98",
+        "lat": 41.381013,
+        "lng": 2.132319,
+        "alt": 40,
+        "address": "194 - C/ JOAN GÜELL, 98",
+        "capacity": 24
+    },
+    {
+        "id": 195,
+        "name": "195 - C/ VALLESPIR, 130",
+        "lat": 41.381888,
+        "lng": 2.135433,
+        "alt": 45,
+        "address": "195 - C/ VALLESPIR, 130",
+        "capacity": 27
+    },
+    {
+        "id": 196,
+        "name": "196 - C/ BERLÍN, 38",
+        "lat": 41.383241,
+        "lng": 2.139363,
+        "alt": 30,
+        "address": "196 - C/ BERLÍN, 38",
+        "capacity": 27
+    },
+    {
+        "id": 197,
+        "name": "197 - C/ GELABERT, 1",
+        "lat": 41.38712,
+        "lng": 2.141039,
+        "alt": 57,
+        "address": "197 - C/ GELABERT, 1",
+        "capacity": 27
+    },
+    {
+        "id": 198,
+        "name": "198 - C/ VALLESPIR, 194",
+        "lat": 41.38451,
+        "lng": 2.133617,
+        "alt": 58,
+        "address": "198 - C/ VALLESPIR, 194",
+        "capacity": 27
+    },
+    {
+        "id": 199,
+        "name": "199 - C/ MEJÍA LEQUERICA, 2",
+        "lat": 41.38182,
+        "lng": 2.126933,
+        "alt": 46,
+        "address": "199 - C/ MEJÍA LEQUERICA, 2",
+        "capacity": 27
+    },
+    {
+        "id": 200,
+        "name": "200 - C/ CAN BRUIXA, 1",
+        "lat": 41.383756,
+        "lng": 2.131273,
+        "alt": 60,
+        "address": "200 - C/ CAN BRUIXA, 1",
+        "capacity": 23
+    },
+    {
+        "id": 201,
+        "name": "201 - C/ NUMÀNCIA, 136",
+        "lat": 41.387787,
+        "lng": 2.134341,
+        "alt": 58,
+        "address": "201 - C/ NUMÀNCIA, 136",
+        "capacity": 24
+    },
+    {
+        "id": 202,
+        "name": "202 - C/ DE LES CORTS, 20",
+        "lat": 41.385331,
+        "lng": 2.128737,
+        "alt": 60,
+        "address": "202 - C/ DE LES CORTS, 20",
+        "capacity": 27
+    },
+    {
+        "id": 203,
+        "name": "203 - AV. DIAGONAL, 668",
+        "lat": 41.388742,
+        "lng": 2.128503,
+        "alt": 60,
+        "address": "203 - AV. DIAGONAL, 668",
+        "capacity": 33
+    },
+    {
+        "id": 204,
+        "name": "204 - AV. DIAGONAL, 664",
+        "lat": 41.388011,
+        "lng": 2.125593,
+        "alt": 60,
+        "address": "204 - AV. DIAGONAL, 664",
+        "capacity": 33
+    },
+    {
+        "id": 205,
+        "name": "205 - C/ EUROPA, 25",
+        "lat": 41.387465,
+        "lng": 2.130838,
+        "alt": 60,
+        "address": "205 - C/ EUROPA, 25",
+        "capacity": 33
+    },
+    {
+        "id": 206,
+        "name": "206 - AV. DIAGONAL, 650",
+        "lat": 41.389845,
+        "lng": 2.13284,
+        "alt": 60,
+        "address": "206 - AV. DIAGONAL, 650",
+        "capacity": 33
+    },
+    {
+        "id": 207,
+        "name": "207 - AV. DIAGONAL, 634",
+        "lat": 41.390828,
+        "lng": 2.136665,
+        "alt": 57,
+        "address": "207 - AV. DIAGONAL, 634",
+        "capacity": 25
+    },
+    {
+        "id": 208,
+        "name": "208 - AV. DIAGONAL, 630",
+        "lat": 41.391451,
+        "lng": 2.139116,
+        "alt": 57,
+        "address": "208 - AV. DIAGONAL, 630",
+        "capacity": 33
+    },
+    {
+        "id": 209,
+        "name": "209 - C/ DIPUTACIÓ, 200",
+        "lat": 41.385755,
+        "lng": 2.161004,
+        "alt": 41,
+        "address": "209 - C/ DIPUTACIÓ, 200",
+        "capacity": 26
+    },
+    {
+        "id": 210,
+        "name": "210 - C/ VILARDELL, 18",
+        "lat": 41.37453,
+        "lng": 2.142356,
+        "alt": 50,
+        "address": "210 - C/ VILARDELL, 18",
+        "capacity": 27
+    },
+    {
+        "id": 211,
+        "name": "211 - C/ SANCHO DE ÁVILA, 60-64",
+        "lat": 41.398772,
+        "lng": 2.190167,
+        "alt": 18,
+        "address": "211 - C/ SANCHO DE ÁVILA, 60-64",
+        "capacity": 28
+    },
+    {
+        "id": 212,
+        "name": "212 - AV. SARRIÀ, 163",
+        "lat": 41.39239,
+        "lng": 2.130945,
+        "alt": 82,
+        "address": "212 - AV. SARRIÀ, 163",
+        "capacity": 24
+    },
+    {
+        "id": 213,
+        "name": "213 - C/ SANTA FE DE NOU MÈXIC, 2",
+        "lat": 41.393783,
+        "lng": 2.135078,
+        "alt": 79,
+        "address": "213 - C/ SANTA FE DE NOU MÈXIC, 2",
+        "capacity": 33
+    },
+    {
+        "id": 214,
+        "name": "214 - C/ JOSÉ DE  AGULLÓ, 9",
+        "lat": 41.395251,
+        "lng": 2.133541,
+        "alt": 85,
+        "address": "214 - C/ JOSÉ DE  AGULLÓ, 9",
+        "capacity": 25
+    },
+    {
+        "id": 215,
+        "name": "215 - C/ GANDUXER, 29",
+        "lat": 41.39412,
+        "lng": 2.138146,
+        "alt": 79,
+        "address": "215 - C/ GANDUXER, 29",
+        "capacity": 21
+    },
+    {
+        "id": 217,
+        "name": "217 - C/ RECTOR UBACH, 24",
+        "lat": 41.398463,
+        "lng": 2.143924,
+        "alt": 69,
+        "address": "217 - C/ RECTOR UBACH, 24",
+        "capacity": 26
+    },
+    {
+        "id": 218,
+        "name": "218 - C/ CONSELL DE CENT, 566",
+        "lat": 41.404114,
+        "lng": 2.183203,
+        "alt": 28,
+        "address": "218 - C/ CONSELL DE CENT, 566",
+        "capacity": 27
+    },
+    {
+        "id": 219,
+        "name": "219 - C/ LAFORJA, 74-76",
+        "lat": 41.397698,
+        "lng": 2.147358,
+        "alt": 69,
+        "address": "219 - C/ LAFORJA, 74-76",
+        "capacity": 26
+    },
+    {
+        "id": 220,
+        "name": "220 - C/ TUSET, 19",
+        "lat": 41.396229,
+        "lng": 2.151482,
+        "alt": 59,
+        "address": "220 - C/ TUSET, 19",
+        "capacity": 26
+    },
+    {
+        "id": 221,
+        "name": "221 - GRAN DE GRÀCIA, 155 (METRO FONTANA)",
+        "lat": 41.402535,
+        "lng": 2.152519,
+        "alt": 71,
+        "address": "221 - GRAN DE GRÀCIA, 155 (METRO FONTANA)",
+        "capacity": 24
+    },
+    {
+        "id": 222,
+        "name": "222 - C/ DEL CANÓ, 1",
+        "lat": 41.40124,
+        "lng": 2.157483,
+        "alt": 71,
+        "address": "222 - C/ DEL CANÓ, 1",
+        "capacity": 27
+    },
+    {
+        "id": 223,
+        "name": "223 - C/ DE BONAVISTA, 14",
+        "lat": 41.398311,
+        "lng": 2.159865,
+        "alt": 50,
+        "address": "223 - C/ DE BONAVISTA, 14",
+        "capacity": 36
+    },
+    {
+        "id": 224,
+        "name": "224 - C / GIRONA, 176",
+        "lat": 41.399945,
+        "lng": 2.164389,
+        "alt": 55,
+        "address": "224 - C / GIRONA, 176",
+        "capacity": 20
+    },
+    {
+        "id": 225,
+        "name": "225 - C/ MALLORCA, 84",
+        "lat": 41.384956,
+        "lng": 2.150814,
+        "alt": 44,
+        "address": "225 - C/ MALLORCA, 84",
+        "capacity": 22
+    },
+    {
+        "id": 226,
+        "name": "226 - C/ MONTMANY, 1",
+        "lat": 41.403465,
+        "lng": 2.161096,
+        "alt": 59,
+        "address": "226 - C/ MONTMANY, 1",
+        "capacity": 27
+    },
+    {
+        "id": 227,
+        "name": "227 - C/ DEL TORRENT DE LES FLORS, 102",
+        "lat": 41.407837,
+        "lng": 2.158678,
+        "alt": 59,
+        "address": "227 - C/ DEL TORRENT DE LES FLORS, 102",
+        "capacity": 18
+    },
+    {
+        "id": 228,
+        "name": "228 - PL. DEL NORD, 5",
+        "lat": 41.40694,
+        "lng": 2.155794,
+        "alt": 71,
+        "address": "228 - PL. DEL NORD, 5",
+        "capacity": 21
+    },
+    {
+        "id": 229,
+        "name": "229 - C/ DE LA SANTACREU, 2 (PL.DE LA VIRREIN",
+        "lat": 41.405107,
+        "lng": 2.156874,
+        "alt": 71,
+        "address": "229 - C/ DE LA SANTACREU, 2 (PL.DE LA VIRREINA)",
+        "capacity": 28
+    },
+    {
+        "id": 230,
+        "name": "230 - C/ DE NIL FABRA, 16-20",
+        "lat": 41.405986,
+        "lng": 2.151633,
+        "alt": 71,
+        "address": "230 - C/ DE NIL FABRA, 16-20",
+        "capacity": 26
+    },
+    {
+        "id": 231,
+        "name": "231 - C/ PI I MARGALL, 38",
+        "lat": 41.407202,
+        "lng": 2.163476,
+        "alt": 82,
+        "address": "231 - C/ PI I MARGALL, 38",
+        "capacity": 24
+    },
+    {
+        "id": 232,
+        "name": "232 - C/ VILÀ I VILÀ, 45",
+        "lat": 41.373509,
+        "lng": 2.171002,
+        "alt": 1,
+        "address": "232 - C/ VILÀ I VILÀ, 45",
+        "capacity": 27
+    },
+    {
+        "id": 233,
+        "name": "233 - C/ NOU DE LA RAMBLA, 164",
+        "lat": 41.371965,
+        "lng": 2.166871,
+        "alt": 1,
+        "address": "233 - C/ NOU DE LA RAMBLA, 164",
+        "capacity": 27
+    },
+    {
+        "id": 234,
+        "name": "234 - PG. DE L´EXPOSICIÓ, 30 /BLASCO GARAY",
+        "lat": 41.371515,
+        "lng": 2.162166,
+        "alt": 44,
+        "address": "234 - PG. DE L´EXPOSICIÓ, 30 /BLASCO GARAY",
+        "capacity": 26
+    },
+    {
+        "id": 235,
+        "name": "235 - AV. PARAL.LEL, 98",
+        "lat": 41.375065,
+        "lng": 2.165839,
+        "alt": 40,
+        "address": "235 - AV. PARAL.LEL, 98",
+        "capacity": 27
+    },
+    {
+        "id": 236,
+        "name": "236 - AV. PARAL.LEL, 194",
+        "lat": 41.375127,
+        "lng": 2.152769,
+        "alt": 47,
+        "address": "236 - AV. PARAL.LEL, 194",
+        "capacity": 24
+    },
+    {
+        "id": 237,
+        "name": "237 - C/ RIUS I TAULET, 4",
+        "lat": 41.372891,
+        "lng": 2.154471,
+        "alt": 67,
+        "address": "237 - C/ RIUS I TAULET, 4",
+        "capacity": 27
+    },
+    {
+        "id": 238,
+        "name": "238 - C/ ESPRONCEDA, 298",
+        "lat": 41.415684,
+        "lng": 2.190986,
+        "alt": 17,
+        "address": "238 - C/ ESPRONCEDA, 298",
+        "capacity": 27
+    },
+    {
+        "id": 239,
+        "name": "239 - C/ INDÚSTRIA, 329",
+        "lat": 41.417323,
+        "lng": 2.184534,
+        "alt": 18,
+        "address": "239 - C/ INDÚSTRIA, 329",
+        "capacity": 27
+    },
+    {
+        "id": 240,
+        "name": "240 - C/ JOSEP ESTIVILL, 32",
+        "lat": 41.417763,
+        "lng": 2.187558,
+        "alt": 18,
+        "address": "240 - C/ JOSEP ESTIVILL, 32",
+        "capacity": 26
+    },
+    {
+        "id": 241,
+        "name": "241 - C/ TEODOR LLORENTE, 2",
+        "lat": 41.419337,
+        "lng": 2.180482,
+        "alt": 40,
+        "address": "241 - C/ TEODOR LLORENTE, 2",
+        "capacity": 33
+    },
+    {
+        "id": 242,
+        "name": "242 - C/ RAMON ALBÓ, 1",
+        "lat": 41.424451,
+        "lng": 2.177284,
+        "alt": 37,
+        "address": "242 - C/ RAMON ALBÓ, 1",
+        "capacity": 26
+    },
+    {
+        "id": 243,
+        "name": "243 - C/ ALEXANDRE GALÍ, 1-5",
+        "lat": 41.423939,
+        "lng": 2.181298,
+        "alt": 37,
+        "address": "243 - C/ ALEXANDRE GALÍ, 1-5",
+        "capacity": 27
+    },
+    {
+        "id": 244,
+        "name": "244 - C/ FELIP II, 214",
+        "lat": 41.426896,
+        "lng": 2.178511,
+        "alt": 47,
+        "address": "244 - C/ FELIP II, 214",
+        "capacity": 27
+    },
+    {
+        "id": 246,
+        "name": "246 - C/ GARCILASO, 77",
+        "lat": 41.422844,
+        "lng": 2.186637,
+        "alt": 18,
+        "address": "246 - C/ GARCILASO, 77",
+        "capacity": 17
+    },
+    {
+        "id": 247,
+        "name": "247 - C/ FELIPE II, 112",
+        "lat": 41.421992,
+        "lng": 2.184806,
+        "alt": 19,
+        "address": "247 - C/ FELIPE II, 112",
+        "capacity": 32
+    },
+    {
+        "id": 248,
+        "name": "248 - C/ PALÈNCIA, 31",
+        "lat": 41.418208,
+        "lng": 2.190374,
+        "alt": 18,
+        "address": "248 - C/ PALÈNCIA, 31",
+        "capacity": 27
+    },
+    {
+        "id": 249,
+        "name": "249 - C/ AÇORES,1-3",
+        "lat": 41.425216,
+        "lng": 2.188997,
+        "alt": 18,
+        "address": "249 - C/ AÇORES,1-3",
+        "capacity": 27
+    },
+    {
+        "id": 250,
+        "name": "250 - C/ PORTUGAL, 3",
+        "lat": 41.425905,
+        "lng": 2.19115,
+        "alt": 24,
+        "address": "250 - C/ PORTUGAL, 3",
+        "capacity": 27
+    },
+    {
+        "id": 251,
+        "name": "251 - C/ CARDENAL TEDESCHINI, 13",
+        "lat": 41.425405,
+        "lng": 2.185226,
+        "alt": 27,
+        "address": "251 - C/ CARDENAL TEDESCHINI, 13",
+        "capacity": 33
+    },
+    {
+        "id": 252,
+        "name": "252 - RAMBLA DE L'ONZE DE SETEMBRE, 31",
+        "lat": 41.429953,
+        "lng": 2.193185,
+        "alt": 18,
+        "address": "252 - RAMBLA DE L'ONZE DE SETEMBRE, 31",
+        "capacity": 32
+    },
+    {
+        "id": 253,
+        "name": "253 - C/ ONZE DE SETEMBRE, 37-39",
+        "lat": 41.429977,
+        "lng": 2.191821,
+        "alt": 18,
+        "address": "253 - C/ ONZE DE SETEMBRE, 37-39",
+        "capacity": 27
+    },
+    {
+        "id": 254,
+        "name": "254 - RAMBLA DE L'ONZE DE SETEMBRE, 69",
+        "lat": 41.429985,
+        "lng": 2.190163,
+        "alt": 25,
+        "address": "254 - RAMBLA DE L'ONZE DE SETEMBRE, 69",
+        "capacity": 26
+    },
+    {
+        "id": 255,
+        "name": "255 - C/ IRLANDA, 11-21",
+        "lat": 41.431183,
+        "lng": 2.185852,
+        "alt": 27,
+        "address": "255 - C/ IRLANDA, 11-21",
+        "capacity": 18
+    },
+    {
+        "id": 258,
+        "name": "258 - C/ FERNANDO PESSOA, 41",
+        "lat": 41.442167,
+        "lng": 2.193032,
+        "alt": 15,
+        "address": "258 - C/ FERNANDO PESSOA, 41",
+        "capacity": 26
+    },
+    {
+        "id": 259,
+        "name": "259 - C/ DE BARTRINA, 14",
+        "lat": 41.439109,
+        "lng": 2.185818,
+        "alt": 25,
+        "address": "259 - C/ DE BARTRINA, 14",
+        "capacity": 24
+    },
+    {
+        "id": 261,
+        "name": "261 - C/ VILLARROEL, 39",
+        "lat": 41.382206,
+        "lng": 2.160644,
+        "alt": 35,
+        "address": "261 - C/ VILLARROEL, 39",
+        "capacity": 32
+    },
+    {
+        "id": 262,
+        "name": "262 - C/ ROCAFORT, 103",
+        "lat": 41.379821,
+        "lng": 2.152496,
+        "alt": 40,
+        "address": "262 - C/ ROCAFORT, 103",
+        "capacity": 31
+    },
+    {
+        "id": 263,
+        "name": "263 - PG. TORRAS I BAGES, 29",
+        "lat": 41.437814,
+        "lng": 2.191039,
+        "alt": 27,
+        "address": "263 - PG. TORRAS I BAGES, 29",
+        "capacity": 19
+    },
+    {
+        "id": 264,
+        "name": "264 - C/REPÚBLICA DOMINICANA,25(CENTRE COMERC",
+        "lat": 41.439949,
+        "lng": 2.197033,
+        "alt": 19,
+        "address": "264 - C/REPÚBLICA DOMINICANA,25(CENTRE COMERCIAL)",
+        "capacity": 32
+    },
+    {
+        "id": 265,
+        "name": "265 - C/ CASANOVAS, 67",
+        "lat": 41.385467,
+        "lng": 2.158532,
+        "alt": 40,
+        "address": "265 - C/ CASANOVAS, 67",
+        "capacity": 27
+    },
+    {
+        "id": 266,
+        "name": "266 - C/ CONCEPCIÓ ARENAL, 176",
+        "lat": 41.426841,
+        "lng": 2.184238,
+        "alt": 37,
+        "address": "266 - C/ CONCEPCIÓ ARENAL, 176",
+        "capacity": 27
+    },
+    {
+        "id": 267,
+        "name": "267 - PG. TORRAS I BAGES, 129",
+        "lat": 41.443395,
+        "lng": 2.190623,
+        "alt": 24,
+        "address": "267 - PG. TORRAS I BAGES, 129",
+        "capacity": 24
+    },
+    {
+        "id": 268,
+        "name": "268 - C/ FERNANDO PESSOA, 72",
+        "lat": 41.445705,
+        "lng": 2.192892,
+        "alt": 23,
+        "address": "268 - C/ FERNANDO PESSOA, 72",
+        "capacity": 26
+    },
+    {
+        "id": 270,
+        "name": "270 - CRTA. DE RIBES, 77 (TRINITAT VELLA)",
+        "lat": 41.448628,
+        "lng": 2.18976,
+        "alt": 24,
+        "address": "270 - CRTA. DE RIBES, 77 (TRINITAT VELLA)",
+        "capacity": 26
+    },
+    {
+        "id": 271,
+        "name": "271 - VIA BARCINO, 69",
+        "lat": 41.450634,
+        "lng": 2.192335,
+        "alt": 18,
+        "address": "271 - VIA BARCINO, 69",
+        "capacity": 19
+    },
+    {
+        "id": 272,
+        "name": "272 - C/ CONCEPCIÓ ARENAL, 281",
+        "lat": 41.432559,
+        "lng": 2.184264,
+        "alt": 27,
+        "address": "272 - C/ CONCEPCIÓ ARENAL, 281",
+        "capacity": 26
+    },
+    {
+        "id": 273,
+        "name": "273 - AV. MERIDIANA/PG. FABRA I PUIG (SANT AN",
+        "lat": 41.430404,
+        "lng": 2.183382,
+        "alt": 27,
+        "address": "273 - AV. MERIDIANA/PG. FABRA I PUIG (SANT ANDREU)",
+        "capacity": 35
+    },
+    {
+        "id": 274,
+        "name": "274 - RAMBLA FABRA I PUIG, 67",
+        "lat": 41.430092,
+        "lng": 2.184898,
+        "alt": 27,
+        "address": "274 - RAMBLA FABRA I PUIG, 67",
+        "capacity": 32
+    },
+    {
+        "id": 275,
+        "name": "275 - AV. RIO DE JANEIRO, 3",
+        "lat": 41.430693,
+        "lng": 2.182225,
+        "alt": 27,
+        "address": "275 - AV. RIO DE JANEIRO, 3",
+        "capacity": 32
+    },
+    {
+        "id": 276,
+        "name": "276 - PLAÇA ALFONS X EL SAVI / RONDA DEL GUIN",
+        "lat": 41.412163,
+        "lng": 2.165275,
+        "alt": 87,
+        "address": "276 - PLAÇA ALFONS X EL SAVI / RONDA DEL GUINARDO",
+        "capacity": 27
+    },
+    {
+        "id": 277,
+        "name": "277 - TRAVESSERA DE GRÀCIA, 328",
+        "lat": 41.408284,
+        "lng": 2.16905,
+        "alt": 59,
+        "address": "277 - TRAVESSERA DE GRÀCIA, 328",
+        "capacity": 25
+    },
+    {
+        "id": 278,
+        "name": "278 - TRAVESSERA DE GRÀCIA, 368",
+        "lat": 41.409815,
+        "lng": 2.171621,
+        "alt": 55,
+        "address": "278 - TRAVESSERA DE GRÀCIA, 368",
+        "capacity": 25
+    },
+    {
+        "id": 279,
+        "name": "279 - C/ MAS CASANOVAS, 137",
+        "lat": 41.415951,
+        "lng": 2.174564,
+        "alt": 70,
+        "address": "279 - C/ MAS CASANOVAS, 137",
+        "capacity": 27
+    },
+    {
+        "id": 280,
+        "name": "280 - C/ SANT ANTONI Mª CLARET, 290-296",
+        "lat": 41.413986,
+        "lng": 2.177842,
+        "alt": 37,
+        "address": "280 - C/ SANT ANTONI Mª CLARET, 290-296",
+        "capacity": 25
+    },
+    {
+        "id": 281,
+        "name": "281 - C/ D'ESCORNALBOU, 51",
+        "lat": 41.418088,
+        "lng": 2.176313,
+        "alt": 45,
+        "address": "281 - C/ D'ESCORNALBOU, 51",
+        "capacity": 24
+    },
+    {
+        "id": 282,
+        "name": "282 - PG. FONT D´EN- FARGAS, 1",
+        "lat": 41.427561,
+        "lng": 2.166022,
+        "alt": 88,
+        "address": "282 - PG. FONT D´EN- FARGAS, 1",
+        "capacity": 26
+    },
+    {
+        "id": 284,
+        "name": "284 - AV. DIAGONAL, 652",
+        "lat": 41.389503,
+        "lng": 2.131454,
+        "alt": 60,
+        "address": "284 - AV. DIAGONAL, 652",
+        "capacity": 27
+    },
+    {
+        "id": 285,
+        "name": "285 - C/ MALATS, 98-100",
+        "lat": 41.436708,
+        "lng": 2.186059,
+        "alt": 25,
+        "address": "285 - C/ MALATS, 98-100",
+        "capacity": 24
+    },
+    {
+        "id": 286,
+        "name": "286 - C/ BOLÍVIA, 76",
+        "lat": 41.403103,
+        "lng": 2.191428,
+        "alt": 18,
+        "address": "286 - C/ BOLÍVIA, 76",
+        "capacity": 16
+    },
+    {
+        "id": 287,
+        "name": "287 - GRAN VIA DE LES CORTS CATALANES, 632",
+        "lat": 41.389171,
+        "lng": 2.168113,
+        "alt": 32,
+        "address": "287 - GRAN VIA DE LES CORTS CATALANES, 632",
+        "capacity": 16
+    },
+    {
+        "id": 288,
+        "name": "288 - PL. VIRREI AMAT",
+        "lat": 41.429636,
+        "lng": 2.174487,
+        "alt": 63,
+        "address": "288 - PL. VIRREI AMAT",
+        "capacity": 32
+    },
+    {
+        "id": 289,
+        "name": "289 - C/ MÚRCIA, 64",
+        "lat": 41.416828,
+        "lng": 2.191022,
+        "alt": 18,
+        "address": "289 - C/ MÚRCIA, 64",
+        "capacity": 27
+    },
+    {
+        "id": 290,
+        "name": "290 - PL. DELS JARDINS D'ALFÀBIA, 1",
+        "lat": 41.437094,
+        "lng": 2.174047,
+        "alt": 84,
+        "address": "290 - PL. DELS JARDINS D'ALFÀBIA, 1",
+        "cross_street": "Pg. Verdum",
+        "capacity": 14
+    },
+    {
+        "id": 291,
+        "name": "291 - C/ CUBELLES, 2",
+        "lat": 41.425897,
+        "lng": 2.17505,
+        "alt": 55,
+        "address": "291 - C/ CUBELLES, 2",
+        "capacity": 27
+    },
+    {
+        "id": 292,
+        "name": "292 - C/ AMILCAR, 1",
+        "lat": 41.430036,
+        "lng": 2.171974,
+        "alt": 63,
+        "address": "292 - C/ AMILCAR, 1",
+        "capacity": 15
+    },
+    {
+        "id": 293,
+        "name": "293 - C/ GRANOLLERS, 1",
+        "lat": 41.428388,
+        "lng": 2.163101,
+        "alt": 95,
+        "address": "293 - C/ GRANOLLERS, 1",
+        "capacity": 24
+    },
+    {
+        "id": 294,
+        "name": "294 - SEU DEL DISTRICTE (NOU BARRIS)",
+        "lat": 41.436373,
+        "lng": 2.170678,
+        "alt": 61,
+        "address": "294 - SEU DEL DISTRICTE (NOU BARRIS)",
+        "capacity": 24
+    },
+    {
+        "id": 295,
+        "name": "295 - C/ SANT ISCLE, 60",
+        "lat": 41.43345,
+        "lng": 2.1715,
+        "alt": 61,
+        "address": "295 - C/ SANT ISCLE, 60",
+        "capacity": 27
+    },
+    {
+        "id": 296,
+        "name": "296 - C/ DE ROSSELLÓ I PORCEL, 1/AV.MERIDIANA",
+        "lat": 41.436505,
+        "lng": 2.183877,
+        "alt": 25,
+        "address": "296 - C/ DE ROSSELLÓ I PORCEL, 1/AV.MERIDIANA",
+        "capacity": 33
+    },
+    {
+        "id": 297,
+        "name": "297 -  C/ TURÓ BLAU, 1-3",
+        "lat": 41.438864,
+        "lng": 2.176822,
+        "alt": 45,
+        "address": "297 -  C/ TURÓ BLAU, 1-3",
+        "capacity": 24
+    },
+    {
+        "id": 298,
+        "name": "298 - C/ ANDREU NIN, 22",
+        "lat": 41.43463,
+        "lng": 2.181747,
+        "alt": 45,
+        "address": "298 - C/ ANDREU NIN, 22",
+        "capacity": 33
+    },
+    {
+        "id": 299,
+        "name": "299 - C/ DE L'ESCULTOR ORDÓÑEZ, 55",
+        "lat": 41.433965,
+        "lng": 2.175199,
+        "alt": 45,
+        "address": "299 - C/ DE L'ESCULTOR ORDÓÑEZ, 55",
+        "capacity": 27
+    },
+    {
+        "id": 300,
+        "name": "300 - C/ DE MALADETA, 1",
+        "lat": 41.431593,
+        "lng": 2.176909,
+        "alt": 47,
+        "address": "300 - C/ DE MALADETA, 1",
+        "capacity": 18
+    },
+    {
+        "id": 301,
+        "name": "301 - C/ MARIE CURIE, 8-14",
+        "lat": 41.437053,
+        "lng": 2.169644,
+        "alt": 61,
+        "address": "301 - C/ MARIE CURIE, 8-14",
+        "capacity": 27
+    },
+    {
+        "id": 302,
+        "name": "302 - C/ CAVALLERS, 41",
+        "lat": 41.39065,
+        "lng": 2.111615,
+        "alt": 73,
+        "address": "302 - C/ CAVALLERS, 41",
+        "capacity": 32
+    },
+    {
+        "id": 303,
+        "name": "303 - C/ CAVALLERS, 67",
+        "lat": 41.393341,
+        "lng": 2.115076,
+        "alt": 101,
+        "address": "303 - C/ CAVALLERS, 67",
+        "capacity": 27
+    },
+    {
+        "id": 304,
+        "name": "304 - PG. MANUEL GIRONA, 7",
+        "lat": 41.390208,
+        "lng": 2.121029,
+        "alt": 63,
+        "address": "304 - PG. MANUEL GIRONA, 7",
+        "capacity": 27
+    },
+    {
+        "id": 305,
+        "name": "305 - AV. DIAGONAL, 680",
+        "lat": 41.387498,
+        "lng": 2.123637,
+        "alt": 63,
+        "address": "305 - AV. DIAGONAL, 680",
+        "capacity": 27
+    },
+    {
+        "id": 306,
+        "name": "306 - C/ DOCTOR SALVADOR CARDENAL, 1-5",
+        "lat": 41.385465,
+        "lng": 2.122912,
+        "alt": 63,
+        "address": "306 - C/ DOCTOR SALVADOR CARDENAL, 1-5",
+        "capacity": 31
+    },
+    {
+        "id": 307,
+        "name": "307 - C/ PINTOR RIBALTA / AV. XILE",
+        "lat": 41.379135,
+        "lng": 2.113505,
+        "alt": 50,
+        "address": "307 - C/ PINTOR RIBALTA / AV. XILE",
+        "capacity": 32
+    },
+    {
+        "id": 308,
+        "name": "308 - C/ CARDENAL REIG, 11",
+        "lat": 41.376788,
+        "lng": 2.113864,
+        "alt": 50,
+        "address": "308 - C/ CARDENAL REIG, 11",
+        "capacity": 27
+    },
+    {
+        "id": 309,
+        "name": "309 - C/ SANT RAMON NONAT,  26",
+        "lat": 41.37674,
+        "lng": 2.116973,
+        "alt": 47,
+        "address": "309 - C/ SANT RAMON NONAT,  26",
+        "capacity": 22
+    },
+    {
+        "id": 310,
+        "name": "310 - C/ JOSEP SAMITIER / JOAN XXIII",
+        "lat": 41.381223,
+        "lng": 2.119077,
+        "alt": 47,
+        "address": "310 - C/ JOSEP SAMITIER / JOAN XXIII",
+        "capacity": 27
+    },
+    {
+        "id": 311,
+        "name": "311 - C/ GALLEGO, 2",
+        "lat": 41.378638,
+        "lng": 2.120393,
+        "alt": 52,
+        "address": "311 - C/ GALLEGO, 2",
+        "capacity": 24
+    },
+    {
+        "id": 312,
+        "name": "312 - C/ ARIZALA, 77",
+        "lat": 41.379046,
+        "lng": 2.123253,
+        "alt": 50,
+        "address": "312 - C/ ARIZALA, 77",
+        "capacity": 36
+    },
+    {
+        "id": 313,
+        "name": "313 - C/ FELIU DE CASANOVA, 1",
+        "lat": 41.375366,
+        "lng": 2.129847,
+        "alt": 42,
+        "address": "313 - C/ FELIU DE CASANOVA, 1",
+        "capacity": 27
+    },
+    {
+        "id": 314,
+        "name": "314 - RAMBLA DEL BRASIL, 44",
+        "lat": 41.37836,
+        "lng": 2.129737,
+        "alt": 46,
+        "address": "314 - RAMBLA DEL BRASIL, 44",
+        "capacity": 24
+    },
+    {
+        "id": 315,
+        "name": "315 - C/ DEL GUINARDÓ, 32-38",
+        "lat": 41.415617,
+        "lng": 2.181966,
+        "alt": 33,
+        "address": "315 - C/ DEL GUINARDÓ, 32-38",
+        "capacity": 27
+    },
+    {
+        "id": 316,
+        "name": "316 - C/ CANTÀBRIA, 55",
+        "lat": 41.4222743,
+        "lng": 2.1984029,
+        "alt": 13,
+        "address": "316 - C/ CANTÀBRIA, 55",
+        "capacity": 26
+    },
+    {
+        "id": 317,
+        "name": "317 - RAMBLA DE PRIM, 256",
+        "lat": 41.425566,
+        "lng": 2.200693,
+        "alt": 12,
+        "address": "317 - RAMBLA DE PRIM, 256",
+        "capacity": 27
+    },
+    {
+        "id": 318,
+        "name": "318 - C/ CARTAGENA, 368",
+        "lat": 41.413406,
+        "lng": 2.171331,
+        "alt": 59,
+        "address": "318 - C/ CARTAGENA, 368",
+        "capacity": 27
+    },
+    {
+        "id": 319,
+        "name": "319 - C/ SAGUÉS, 1",
+        "lat": 41.393713,
+        "lng": 2.145584,
+        "alt": 65,
+        "address": "319 - C/ SAGUÉS, 1",
+        "capacity": 19
+    },
+    {
+        "id": 320,
+        "name": "320 - VÍA AUGUSTA, 109",
+        "lat": 41.401116,
+        "lng": 2.147953,
+        "alt": 80,
+        "address": "320 - VÍA AUGUSTA, 109",
+        "capacity": 27
+    },
+    {
+        "id": 321,
+        "name": "321 - C/ SANT HERMENEGILD, 30",
+        "lat": 41.403054,
+        "lng": 2.144549,
+        "alt": 80,
+        "address": "321 - C/ SANT HERMENEGILD, 30",
+        "capacity": 27
+    },
+    {
+        "id": 322,
+        "name": "322 - C/ SANTALÓ, 165",
+        "lat": 41.400977,
+        "lng": 2.13907,
+        "alt": 106,
+        "address": "322 - C/ SANTALÓ, 165",
+        "capacity": 24
+    },
+    {
+        "id": 323,
+        "name": "323 - C/ VALLMAJOR, 13",
+        "lat": 41.397996,
+        "lng": 2.138717,
+        "alt": 79,
+        "address": "323 - C/ VALLMAJOR, 13",
+        "capacity": 27
+    },
+    {
+        "id": 324,
+        "name": "324 - C/ REINA VICTORIA, 31",
+        "lat": 41.396938,
+        "lng": 2.136258,
+        "alt": 79,
+        "address": "324 - C/ REINA VICTORIA, 31",
+        "capacity": 27
+    },
+    {
+        "id": 325,
+        "name": "325 - C/ ALT DE GIRONELLA, 13",
+        "lat": 41.39493,
+        "lng": 2.130325,
+        "alt": 82,
+        "address": "325 - C/ ALT DE GIRONELLA, 13",
+        "capacity": 23
+    },
+    {
+        "id": 326,
+        "name": "326 - C/ BALMES, 409",
+        "lat": 41.407384,
+        "lng": 2.1383,
+        "alt": 110,
+        "address": "326 - C/ BALMES, 409",
+        "capacity": 32
+    },
+    {
+        "id": 327,
+        "name": "327 - C/ REUS, 23",
+        "lat": 41.405,
+        "lng": 2.13453,
+        "alt": 106,
+        "address": "327 - C/ REUS, 23",
+        "capacity": 24
+    },
+    {
+        "id": 328,
+        "name": "328 - C/ ARTESA DE SEGRE, 2",
+        "lat": 41.40293,
+        "lng": 2.13427,
+        "alt": 106,
+        "address": "328 - C/ ARTESA DE SEGRE, 2",
+        "capacity": 27
+    },
+    {
+        "id": 329,
+        "name": "329 - C/ DE LES ESCOLES PIES, 99",
+        "lat": 41.402879,
+        "lng": 2.128541,
+        "alt": 130,
+        "address": "329 - C/ DE LES ESCOLES PIES, 99",
+        "capacity": 27
+    },
+    {
+        "id": 331,
+        "name": "331 - C/ CASTELLNOU, 65",
+        "lat": 41.39706,
+        "lng": 2.12801,
+        "alt": 82,
+        "address": "331 - C/ CASTELLNOU, 65",
+        "capacity": 29
+    },
+    {
+        "id": 332,
+        "name": "332 - C/ DOCTOR ROUX, 86",
+        "lat": 41.399822,
+        "lng": 2.12809,
+        "alt": 82,
+        "address": "332 - C/ DOCTOR ROUX, 86",
+        "capacity": 26
+    },
+    {
+        "id": 333,
+        "name": "333 - PASSATGE DE SENILLOSA, 3-5",
+        "lat": 41.395632,
+        "lng": 2.125106,
+        "alt": 82,
+        "address": "333 - PASSATGE DE SENILLOSA, 3-5",
+        "capacity": 27
+    },
+    {
+        "id": 334,
+        "name": "334 - VIA AUGUSTA, 348",
+        "lat": 41.400722,
+        "lng": 2.123268,
+        "alt": 138,
+        "address": "334 - VIA AUGUSTA, 348",
+        "capacity": 26
+    },
+    {
+        "id": 335,
+        "name": "335 - C/ SANTA AMÈLIA, 2",
+        "lat": 41.393639,
+        "lng": 2.123224,
+        "alt": 96,
+        "address": "335 - C/ SANTA AMÈLIA, 2",
+        "capacity": 26
+    },
+    {
+        "id": 336,
+        "name": "336 - C/ CAPONATA, 10",
+        "lat": 41.395274,
+        "lng": 2.120973,
+        "alt": 96,
+        "address": "336 - C/ CAPONATA, 10",
+        "capacity": 27
+    },
+    {
+        "id": 337,
+        "name": "337 - C/ CARME KARR, 12-14",
+        "lat": 41.398719,
+        "lng": 2.120422,
+        "alt": 96,
+        "address": "337 - C/ CARME KARR, 12-14",
+        "capacity": 22
+    },
+    {
+        "id": 338,
+        "name": "338 - AV. J. V. FOIX,  63",
+        "lat": 41.397572,
+        "lng": 2.119506,
+        "alt": 96,
+        "address": "338 - AV. J. V. FOIX,  63",
+        "capacity": 36
+    },
+    {
+        "id": 339,
+        "name": "339 - C/ RAMON TURRÓ, 246",
+        "lat": 41.401662,
+        "lng": 2.205277,
+        "alt": 9,
+        "address": "339 - C/ RAMON TURRÓ, 246",
+        "capacity": 27
+    },
+    {
+        "id": 340,
+        "name": "340 - C/ SANT ADRIÀ, 113",
+        "lat": 41.43619,
+        "lng": 2.204573,
+        "alt": 28,
+        "address": "340 - C/ SANT ADRIÀ, 113",
+        "capacity": 24
+    },
+    {
+        "id": 341,
+        "name": "341 - PG. D'ENRIC SANCHIS, 33",
+        "lat": 41.433958,
+        "lng": 2.206166,
+        "alt": 28,
+        "address": "341 - PG. D'ENRIC SANCHIS, 33",
+        "capacity": 27
+    },
+    {
+        "id": 342,
+        "name": "342 - C/ ROC BORONAT, 134",
+        "lat": 41.403502,
+        "lng": 2.193702,
+        "alt": 18,
+        "address": "342 - C/ ROC BORONAT, 134",
+        "capacity": 26
+    },
+    {
+        "id": 343,
+        "name": "343 - CAMPANA DE LA MAQUINISTA (SAO PAULO I P",
+        "lat": 41.438886,
+        "lng": 2.199598,
+        "alt": 19,
+        "address": "343 - CAMPANA DE LA MAQUINISTA (SAO PAULO I PL. DE",
+        "capacity": 27
+    },
+    {
+        "id": 344,
+        "name": "344 - C/ CIUTAT D'ASUNCIÓN, 73 / POTOSÍ",
+        "lat": 41.443127,
+        "lng": 2.199538,
+        "alt": 23,
+        "address": "344 - C/ CIUTAT D'ASUNCIÓN, 73 / POTOSÍ",
+        "capacity": 27
+    },
+    {
+        "id": 345,
+        "name": "345 - PL. TERESA DE CLARAMUNT/C/ DELS FERROCA",
+        "lat": 41.363093,
+        "lng": 2.139771,
+        "alt": 48,
+        "address": "345 - PL. TERESA DE CLARAMUNT/C/ DELS FERROCARILS ",
+        "capacity": 32
+    },
+    {
+        "id": 347,
+        "name": "347 - C/ ALTS FORNS, 77",
+        "lat": 41.359496,
+        "lng": 2.14182,
+        "alt": 35,
+        "address": "347 - C/ ALTS FORNS, 77",
+        "capacity": 28
+    },
+    {
+        "id": 348,
+        "name": "348 - JARDINS DE CAN FERRERO/PG.DE LA ZONA FR",
+        "lat": 41.357067,
+        "lng": 2.141563,
+        "alt": 13,
+        "address": "348 - JARDINS DE CAN FERRERO/PG.DE LA ZONA FRANCA ",
+        "capacity": 33
+    },
+    {
+        "id": 349,
+        "name": "349 - C/ DE L'ENERGIA, 2 / ALTS FORNS",
+        "lat": 41.357338,
+        "lng": 2.137172,
+        "alt": 13,
+        "address": "349 - C/ DE L'ENERGIA, 2 / ALTS FORNS",
+        "capacity": 31
+    },
+    {
+        "id": 350,
+        "name": "350 - C/ VILLARROEL, 208",
+        "lat": 41.391833,
+        "lng": 2.14812,
+        "alt": 69,
+        "address": "350 - C/ VILLARROEL, 208",
+        "capacity": 30
+    },
+    {
+        "id": 351,
+        "name": "351 - C/ JANE ADDAMS, 26/ CRTA. DEL PRAT",
+        "lat": 41.362135,
+        "lng": 2.135637,
+        "alt": 48,
+        "address": "351 - C/ JANE ADDAMS, 26/ CRTA. DEL PRAT",
+        "capacity": 33
+    },
+    {
+        "id": 352,
+        "name": "352 - C/RADI,10/GRAN VIA DE LES CORTS CATALA",
+        "lat": 41.36335,
+        "lng": 2.134144,
+        "alt": 48,
+        "address": "352 - C/RADI,10/GRAN VIA DE LES CORTS CATALANES",
+        "capacity": 28
+    },
+    {
+        "id": 353,
+        "name": "353 - C/ MUNNÉ  2-6",
+        "lat": 41.375414,
+        "lng": 2.123191,
+        "alt": 47,
+        "address": "353 - C/ MUNNÉ  2-6",
+        "capacity": 29
+    },
+    {
+        "id": 354,
+        "name": "354 - RAMBLA DEL BRASIL, 5",
+        "lat": 41.37592,
+        "lng": 2.13008,
+        "alt": 46,
+        "address": "354 - RAMBLA DEL BRASIL, 5",
+        "capacity": 27
+    },
+    {
+        "id": 356,
+        "name": "356 - C/ CAMÈLIES, 73",
+        "lat": 41.413425,
+        "lng": 2.163411,
+        "alt": 115,
+        "address": "356 - C/ CAMÈLIES, 73",
+        "capacity": 27
+    },
+    {
+        "id": 358,
+        "name": "358 - C/ GOMBAU, 24",
+        "lat": 41.387225,
+        "lng": 2.17927,
+        "alt": 16,
+        "address": "358 - C/ GOMBAU, 24",
+        "capacity": 26
+    },
+    {
+        "id": 359,
+        "name": "359 - C/ MÉNDEZ NÚÑEZ, 16",
+        "lat": 41.390021,
+        "lng": 2.177572,
+        "alt": 16,
+        "address": "359 - C/ MÉNDEZ NÚÑEZ, 16",
+        "capacity": 25
+    },
+    {
+        "id": 360,
+        "name": "360 - C/ BAILÉN, 62",
+        "lat": 41.395213,
+        "lng": 2.172984,
+        "alt": 42,
+        "address": "360 - C/ BAILÉN, 62",
+        "capacity": 30
+    },
+    {
+        "id": 361,
+        "name": "361 - PG. DE COLOM (LES RAMBLES)",
+        "lat": 41.376292,
+        "lng": 2.178553,
+        "alt": 5,
+        "address": "361 - PG. DE COLOM (LES RAMBLES)",
+        "capacity": 33
+    },
+    {
+        "id": 362,
+        "name": "362 - C/ BAILÉN, 100",
+        "lat": 41.397006,
+        "lng": 2.17057,
+        "alt": 42,
+        "address": "362 - C/ BAILÉN, 100",
+        "capacity": 32
+    },
+    {
+        "id": 363,
+        "name": "363 - C/ BRUC, 20",
+        "lat": 41.39076,
+        "lng": 2.1744,
+        "alt": 32,
+        "address": "363 - C/ BRUC, 20",
+        "capacity": 24
+    },
+    {
+        "id": 364,
+        "name": "364 - PG. DE GRÀCIA, 61",
+        "lat": 41.39324,
+        "lng": 2.16343,
+        "alt": 50,
+        "address": "364 - PG. DE GRÀCIA, 61",
+        "capacity": 33
+    },
+    {
+        "id": 365,
+        "name": "365 - C/ VILADOMAT, 244",
+        "lat": 41.387499,
+        "lng": 2.14702,
+        "alt": 51,
+        "address": "365 - C/ VILADOMAT, 244",
+        "capacity": 31
+    },
+    {
+        "id": 367,
+        "name": "367 - C/ MARQUÈS DE SENTMENAT, 46",
+        "lat": 41.385057,
+        "lng": 2.137331,
+        "alt": 57,
+        "address": "367 - C/ MARQUÈS DE SENTMENAT, 46",
+        "capacity": 32
+    },
+    {
+        "id": 368,
+        "name": "368 - C/ DIPUTACIÓ, 350",
+        "lat": 41.396815,
+        "lng": 2.175714,
+        "alt": 21,
+        "address": "368 - C/ DIPUTACIÓ, 350",
+        "capacity": 28
+    },
+    {
+        "id": 369,
+        "name": "369 - C/ CONSELL DE CENT, 482",
+        "lat": 41.400168,
+        "lng": 2.177948,
+        "alt": 28,
+        "address": "369 - C/ CONSELL DE CENT, 482",
+        "capacity": 27
+    },
+    {
+        "id": 370,
+        "name": "370 - C/ SARDENYA, 326",
+        "lat": 41.40377,
+        "lng": 2.172864,
+        "alt": 49,
+        "address": "370 - C/ SARDENYA, 326",
+        "capacity": 30
+    },
+    {
+        "id": 371,
+        "name": "371 - C/ DELS ENAMORATS, 49",
+        "lat": 41.404027,
+        "lng": 2.181264,
+        "alt": 28,
+        "address": "371 - C/ DELS ENAMORATS, 49",
+        "capacity": 32
+    },
+    {
+        "id": 372,
+        "name": "372 - C/ RIBES, 77",
+        "lat": 41.400167,
+        "lng": 2.184362,
+        "alt": 18,
+        "address": "372 - C/ RIBES, 77",
+        "capacity": 27
+    },
+    {
+        "id": 373,
+        "name": "373 - AV. PARAL.LEL, 132",
+        "lat": 41.375073,
+        "lng": 2.161305,
+        "alt": 35,
+        "address": "373 - AV. PARAL.LEL, 132",
+        "capacity": 30
+    },
+    {
+        "id": 374,
+        "name": "374 - PG. DE GRÀCIA, 89",
+        "lat": 41.395,
+        "lng": 2.16123,
+        "alt": 50,
+        "address": "374 - PG. DE GRÀCIA, 89",
+        "capacity": 31
+    },
+    {
+        "id": 375,
+        "name": "375 - WORLD TRADE CENTER",
+        "lat": 41.372154,
+        "lng": 2.180701,
+        "alt": 1,
+        "address": "375 - WORLD TRADE CENTER",
+        "capacity": 27
+    },
+    {
+        "id": 376,
+        "name": "376 - WORLD TRADE CENTER",
+        "lat": 41.371663,
+        "lng": 2.180302,
+        "alt": 1,
+        "address": "376 - WORLD TRADE CENTER",
+        "capacity": 27
+    },
+    {
+        "id": 377,
+        "name": "377 - PL. ICTÍNEO",
+        "lat": 41.37747,
+        "lng": 2.183737,
+        "alt": 1,
+        "address": "377 - PL. ICTÍNEO",
+        "capacity": 29
+    },
+    {
+        "id": 378,
+        "name": "378 - PL. JOAQUIM XIRAU I PALAU, 1",
+        "lat": 41.378516,
+        "lng": 2.176716,
+        "alt": 5,
+        "address": "378 - PL. JOAQUIM XIRAU I PALAU, 1",
+        "capacity": 21
+    },
+    {
+        "id": 380,
+        "name": "380 - C/ DURAN I BAS, 2",
+        "lat": 41.385463,
+        "lng": 2.174252,
+        "alt": 32,
+        "address": "380 - C/ DURAN I BAS, 2",
+        "capacity": 24
+    },
+    {
+        "id": 381,
+        "name": "381 - C/ AGUSTÍ DURAN I SANPERE, 10",
+        "lat": 41.381686,
+        "lng": 2.167816,
+        "alt": 24,
+        "address": "381 - C/ AGUSTÍ DURAN I SANPERE, 10",
+        "capacity": 33
+    },
+    {
+        "id": 382,
+        "name": "382 - C/ LOPE DE VEGA, 79",
+        "lat": 41.403938,
+        "lng": 2.204188,
+        "alt": 10,
+        "address": "382 - C/ LOPE DE VEGA, 79",
+        "capacity": 27
+    },
+    {
+        "id": 384,
+        "name": "384 - C/ VILAMARÍ, 85",
+        "lat": 41.380708,
+        "lng": 2.146793,
+        "alt": 44,
+        "address": "384 - C/ VILAMARÍ, 85",
+        "capacity": 25
+    },
+    {
+        "id": 385,
+        "name": "385 - C/ CASANOVA, 119",
+        "lat": 41.387978,
+        "lng": 2.155266,
+        "alt": 45,
+        "address": "385 - C/ CASANOVA, 119",
+        "capacity": 30
+    },
+    {
+        "id": 386,
+        "name": "386 - AV. PARAL.LEL 164",
+        "lat": 41.375086,
+        "lng": 2.156848,
+        "alt": 40,
+        "address": "386 - AV. PARAL.LEL 164",
+        "capacity": 24
+    },
+    {
+        "id": 387,
+        "name": "387 - C/ NÀPOLS, 125",
+        "lat": 41.395796,
+        "lng": 2.178784,
+        "alt": 21,
+        "address": "387 - C/ NÀPOLS, 125",
+        "capacity": 27
+    },
+    {
+        "id": 388,
+        "name": "388 - C/ RIERA ALTA, 6",
+        "lat": 41.380593,
+        "lng": 2.167418,
+        "alt": 24,
+        "address": "388 - C/ RIERA ALTA, 6",
+        "capacity": 27
+    },
+    {
+        "id": 389,
+        "name": "389 - RECINTE PARC DE LA CIUTADELLA",
+        "lat": 41.38739,
+        "lng": 2.1875,
+        "alt": 11,
+        "address": "389 - RECINTE PARC DE LA CIUTADELLA",
+        "capacity": 27
+    },
+    {
+        "id": 390,
+        "name": "390 - C/ COMERÇ, 36",
+        "lat": 41.386955,
+        "lng": 2.18195,
+        "alt": 16,
+        "address": "390 - C/ COMERÇ, 36",
+        "capacity": 24
+    },
+    {
+        "id": 391,
+        "name": "391 - C/ SAGRERA, 74",
+        "lat": 41.422873,
+        "lng": 2.191204,
+        "alt": 18,
+        "address": "391 - C/ SAGRERA, 74",
+        "capacity": 27
+    },
+    {
+        "id": 392,
+        "name": "392 - C/ RAMON TURRÓ, 4",
+        "lat": 41.390595,
+        "lng": 2.190681,
+        "alt": 11,
+        "address": "392 - C/ RAMON TURRÓ, 4",
+        "capacity": 19
+    },
+    {
+        "id": 393,
+        "name": "393 - C/ LLACUNA, 86",
+        "lat": 41.402177,
+        "lng": 2.197653,
+        "alt": 16,
+        "address": "393 - C/ LLACUNA, 86",
+        "capacity": 32
+    },
+    {
+        "id": 394,
+        "name": "394 - C/ DIPUTACIÓ, 226",
+        "lat": 41.387151,
+        "lng": 2.162838,
+        "alt": 41,
+        "address": "394 - C/ DIPUTACIÓ, 226",
+        "capacity": 27
+    },
+    {
+        "id": 395,
+        "name": "395 - PL. CATALUNYA, 22",
+        "lat": 41.386009,
+        "lng": 2.170212,
+        "alt": 32,
+        "address": "395 - PL. CATALUNYA, 22",
+        "capacity": 33
+    },
+    {
+        "id": 396,
+        "name": "396 - C/ JOAN MIRÓ, 2-12",
+        "lat": 41.389028,
+        "lng": 2.196844,
+        "alt": 1,
+        "address": "396 - C/ JOAN MIRÓ, 2-12",
+        "capacity": 31
+    },
+    {
+        "id": 397,
+        "name": "397 - AV. LITORAL (PG MARÍTIM DEL PORT OLÍMPI",
+        "lat": 41.388894,
+        "lng": 2.199334,
+        "alt": 1,
+        "address": "397 - AV. LITORAL (PG MARÍTIM DEL PORT OLÍMPIC)",
+        "capacity": 27
+    },
+    {
+        "id": 398,
+        "name": "398 - PG. MARÍTIM DE LA BARCELONETA/ANDREA DÒ",
+        "lat": 41.381011,
+        "lng": 2.193502,
+        "alt": 0,
+        "address": "398 - PG. MARÍTIM DE LA BARCELONETA/ANDREA DÒRIA",
+        "capacity": 27
+    },
+    {
+        "id": 400,
+        "name": "400 - MOLL ORIENTAL",
+        "lat": 41.36958,
+        "lng": 2.188017,
+        "alt": 5,
+        "address": "400 - MOLL ORIENTAL",
+        "capacity": 28
+    },
+    {
+        "id": 401,
+        "name": "401 - PL. ANTONIO LÓPEZ ( VIA LAIETANA)",
+        "lat": 41.381241,
+        "lng": 2.181838,
+        "alt": 5,
+        "address": "401 - PL. ANTONIO LÓPEZ ( VIA LAIETANA)",
+        "capacity": 24
+    },
+    {
+        "id": 402,
+        "name": "402 - PG. DE COLOM (VIA LAIETANA)",
+        "lat": 41.380705,
+        "lng": 2.182415,
+        "alt": 5,
+        "address": "402 - PG. DE COLOM (VIA LAIETANA)",
+        "capacity": 27
+    },
+    {
+        "id": 404,
+        "name": "404 - C/ JUAN GRIS, 28",
+        "lat": 41.365374,
+        "lng": 2.133087,
+        "alt": 16,
+        "address": "404 - C/ JUAN GRIS, 28",
+        "capacity": 32
+    },
+    {
+        "id": 405,
+        "name": "405 - C/ COMTE BORRELL, 198",
+        "lat": 41.38551,
+        "lng": 2.152,
+        "alt": 45,
+        "address": "405 - C/ COMTE BORRELL, 198",
+        "capacity": 26
+    },
+    {
+        "id": 406,
+        "name": "406 - GRAN VIA DE LES CORTS CATALANES, 592 ",
+        "lat": 41.386512,
+        "lng": 2.164597,
+        "alt": 41,
+        "address": "406 - GRAN VIA DE LES CORTS CATALANES, 592 ",
+        "capacity": 33
+    },
+    {
+        "id": 408,
+        "name": "408 - C/ RAMON TRIAS FARGAS, 23",
+        "lat": 41.388988,
+        "lng": 2.192283,
+        "alt": 1,
+        "address": "408 - C/ RAMON TRIAS FARGAS, 23",
+        "capacity": 39
+    },
+    {
+        "id": 410,
+        "name": "410 - PG. DE COLOM (LES RAMBLES)",
+        "lat": 41.376433,
+        "lng": 2.17871,
+        "alt": 5,
+        "address": "410 - PG. DE COLOM (LES RAMBLES)",
+        "capacity": 33
+    },
+    {
+        "id": 412,
+        "name": "412 - PL. URQUINAONA, 3",
+        "lat": 41.389012,
+        "lng": 2.172667,
+        "alt": 32,
+        "address": "412 - PL. URQUINAONA, 3",
+        "capacity": 27
+    },
+    {
+        "id": 413,
+        "name": "413 - C/ BRUC, 66",
+        "lat": 41.393512,
+        "lng": 2.170718,
+        "alt": 42,
+        "address": "413 - C/ BRUC, 66",
+        "capacity": 32
+    },
+    {
+        "id": 414,
+        "name": "414 - C/ CASP, 67",
+        "lat": 41.393744,
+        "lng": 2.176451,
+        "alt": 21,
+        "address": "414 - C/ CASP, 67",
+        "capacity": 33
+    },
+    {
+        "id": 415,
+        "name": "415 - RAMBLA DEL RAVAL, 13",
+        "lat": 41.379374,
+        "lng": 2.168921,
+        "alt": 24,
+        "address": "415 - RAMBLA DEL RAVAL, 13",
+        "capacity": 25
+    },
+    {
+        "id": 416,
+        "name": "416 - RAMBLA DEL RAVAL, 20",
+        "lat": 41.378134,
+        "lng": 2.16965,
+        "alt": 24,
+        "address": "416 - RAMBLA DEL RAVAL, 20",
+        "capacity": 27
+    },
+    {
+        "id": 418,
+        "name": "418 - PG. DE LLUíS COMPANYS (ARC DE TRIOMF)",
+        "lat": 41.390943,
+        "lng": 2.180251,
+        "alt": 16,
+        "address": "418 - PG. DE LLUíS COMPANYS (ARC DE TRIOMF)",
+        "capacity": 27
+    },
+    {
+        "id": 419,
+        "name": "419 - PG. DE LLUíS COMPANYS (ARC DE TRIOMF)",
+        "lat": 41.391299,
+        "lng": 2.180828,
+        "alt": 16,
+        "address": "419 - PG. DE LLUíS COMPANYS (ARC DE TRIOMF)",
+        "capacity": 33
+    },
+    {
+        "id": 420,
+        "name": "420 - GRAN VIA DE LES CORTS CATALANES, 361 ",
+        "lat": 41.374213,
+        "lng": 2.148082,
+        "alt": 61,
+        "address": "420 - GRAN VIA DE LES CORTS CATALANES, 361 ",
+        "capacity": 27
+    },
+    {
+        "id": 421,
+        "name": "421 - PL. DE JOAN PEIRÓ",
+        "lat": 41.378031,
+        "lng": 2.139124,
+        "alt": 45,
+        "address": "421 - PL. DE JOAN PEIRÓ",
+        "capacity": 32
+    },
+    {
+        "id": 423,
+        "name": "423 - C/ HONDURAS, 32-34",
+        "lat": 41.420201,
+        "lng": 2.189532,
+        "alt": 18,
+        "address": "423 - C/ HONDURAS, 32-34",
+        "capacity": 32
+    },
+    {
+        "id": 424,
+        "name": "424 - PG. MARÍTIM DE LA BARCELONETA",
+        "lat": 41.379632,
+        "lng": 2.192662,
+        "alt": 5,
+        "address": "424 - PG. MARÍTIM DE LA BARCELONETA",
+        "capacity": 27
+    },
+    {
+        "id": 425,
+        "name": "425 - C/ DE CERVELLÓ, 5",
+        "lat": 41.37652,
+        "lng": 2.1749,
+        "alt": 24,
+        "address": "425 - C/ DE CERVELLÓ, 5",
+        "capacity": 27
+    },
+    {
+        "id": 426,
+        "name": "426 - C/ DE RIBES, 59 B",
+        "lat": 41.398305,
+        "lng": 2.183023,
+        "alt": 21,
+        "address": "426 - C/ DE RIBES, 59 B",
+        "capacity": 31
+    },
+    {
+        "id": 427,
+        "name": "427 - C/ DE SANT PAU, 119/ RONDA SANT PAU",
+        "lat": 41.375336,
+        "lng": 2.168007,
+        "alt": 24,
+        "address": "427 - C/ DE SANT PAU, 119/ RONDA SANT PAU",
+        "capacity": 20
+    },
+    {
+        "id": 428,
+        "name": "428 - C/ PUJADES, 103",
+        "lat": 41.398389,
+        "lng": 2.196261,
+        "alt": 11,
+        "address": "428 - C/ PUJADES, 103",
+        "capacity": 27
+    },
+    {
+        "id": 492,
+        "name": "492 - PL. TETUAN",
+        "lat": 41.3944248,
+        "lng": 2.1751026,
+        "alt": 21,
+        "address": "492 - PL. TETUAN",
+        "capacity": 24
+    },
+    {
+        "id": 494,
+        "name": "494 - RAMBLA CATALUNYA/DIPUTACIO",
+        "lat": 41.3896703,
+        "lng": 2.1654279,
+        "alt": 41,
+        "address": "494 - RAMBLA CATALUNYA/DIPUTACIO",
+        "capacity": 23
+    },
+    {
+        "id": 495,
+        "name": "495 - C/ DIPUTACIÓ - TARRAGONA",
+        "lat": 41.3767081,
+        "lng": 2.1483947,
+        "alt": 45,
+        "address": "495 - C/ DIPUTACIÓ - TARRAGONA",
+        "capacity": 23
+    },
+    {
+        "id": 496,
+        "name": "496 - C/ PROVENÇA,  445",
+        "lat": 41.404839,
+        "lng": 2.17482,
+        "alt": 21,
+        "address": "496 - C/ PROVENÇA, 445",
+        "capacity": 18
+    }
+]

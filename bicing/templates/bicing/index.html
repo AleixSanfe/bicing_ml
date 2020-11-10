@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    {% load static %}
+    {% load sass_tags %}
+    <link href="{% sass_src 'bicing/styles/index.scss' %}" rel="stylesheet" type="text/css" ></link>
+
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJrqbmU83bBRwda7e7OzOsKAUxJzbzJVw"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0/dist/Chart.min.js" ></script>
+    <script src="{% static 'bicing/js/station.js' %}" ></script>
+    <script src="{% static 'bicing/js/station_list.js' %}" ></script>
+    <script src="{% static 'bicing/js/map.js' %}" ></script>
+    <script src="{% static 'bicing/js/available_bar.js' %}" ></script>
+    <script src="{% static 'bicing/js/record_chart.js' %}" ></script>
+    <script src="{% static 'bicing/js/station_resume.js' %}" ></script>
+
+    <title>Document</title>
+</head>
+<body>
+
+    <nav>
+        <div class="left logo" ></div>
+        <div class="main" >
+                hellow world
+        </div>
+    </nav>
+
+    <div class="container" >
+        <div class="left" id="station_list" ></div>
+        <div class="main" id="station_resume" ></div>
+    </div>
+
+    <script>
+
+        let main = document.getElementById('station_resume');
+        let stationResume = new StationResume(main);
+
+        let selected_station = JSON.parse( `{{ selected }}`.replace( new RegExp('&#39;','g') , `"` ) );
+        stationResume.setContent(selected_station ? selected_station.id : 1);
+        
+        let stations = JSON.parse( `{{ stations }}`.replace( new RegExp('&quot;','g') , `"` ) );
+        let target = document.getElementById('station_list');
+        let options = {searchable: true, callback: stationResume.setContent.bind(stationResume)};
+
+        let stationsList = new StationList(stations,target,options);
+        
+    </script>
+
+</body>
+</html>

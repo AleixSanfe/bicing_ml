@@ -1,0 +1,2 @@
+"station_id","num_bikes_available","num_bikes_available_types.mechanical","num_bikes_available_types.ebike","num_docks_available","is_installed","is_renting","is_returning","last_reported","is_charging_station","status","last_updated","ttl"
+1,25,25,0,4,1,1,1,1554069381,TRUE,"IN_SERVICE",1554069571,3
